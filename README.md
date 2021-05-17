@@ -96,3 +96,11 @@
 |      | 32장    | 승부 조작                           | MATCHFIX      |        |     |     |         |
 |      | 32장    | 국책 사업                           | 준비중입니다  |        |     |     |         |
 |      | 32장    | 함정 설치                           | TRAPCARD      |        |     |     |         |
+
+### How to Create a solution
+* `bash create.sh <dir>`
+  * e.g. `bash create.sh Week01/lucetre/FESTIVAL`
+* Write a solution in `main.cpp`
+### How to Execute the solution
+* `bash run.sh <dir>`
+  * e.g. `bash run.sh Week01/lucetre/FESTIVAL`
