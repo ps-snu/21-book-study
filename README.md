@@ -4,9 +4,9 @@
 | Week | 장 번호 | 문제 이름                           | ID            | elzino | lgm | yks | lucetre |
 |:----:|:---------:|-------------------------------------|---------------|:------:|:---:|:---:|:-------:|
 |   1  | 1장     | 록 페스티벌                         | [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL)      |        |     |     |  &#10004; |
-|   1  | 6장     | 보글 게임                           | [BOGGLE](http://algospot.com/judge/problem/read/BOGGLE)        |        |     |     |         |
-|   1  | 6장     | 소풍                                | [PICNIC](https://algospot.com/judge/problem/read/PICNIC)        |        |     |     |         |
-|   1  | 6장     | 게임판 덮기                         | [BOARDCOVER](https://algospot.com/judge/problem/read/BOARDCOVER)    |        |     |     |         |
+|   1  | 6장     | 보글 게임                           | [BOGGLE](http://algospot.com/judge/problem/read/BOGGLE)        |        |     |     |  &#10004; |
+|   1  | 6장     | 소풍                                | [PICNIC](https://algospot.com/judge/problem/read/PICNIC)        |        |     |     | &#10004; |
+|   1  | 6장     | 게임판 덮기                         | [BOARDCOVER](https://algospot.com/judge/problem/read/BOARDCOVER)    |        |     |     | &#10004; |
 |   1  | 6장     | 시계 맞추기                         | [CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC)     |        |     |     |         |
 |      | 7장     | 쿼드 트리 뒤집기                    | QUADTREE      |        |     |     |         |
 |      | 7장     | 울타리 잘라내기                     | FENCE         |        |     |     |         |
