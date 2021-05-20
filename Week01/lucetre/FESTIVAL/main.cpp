@@ -6,7 +6,7 @@ int n, l;
 int a[M+1];
 
 int main() {
-    // freopen("input.txt", "r", stdin);
+    freopen("input.txt", "r", stdin);
     int T; cin >> T;
     for (int t = 0; t < T; t++) {
         cin >> n >> l;
