@@ -7,7 +7,7 @@
 |   1  | 6장     | 보글 게임                           | [BOGGLE](http://algospot.com/judge/problem/read/BOGGLE)        |        |     |     |  &#10004; |
 |   1  | 6장     | 소풍                                | [PICNIC](https://algospot.com/judge/problem/read/PICNIC)        |        |     |     | &#10004; |
 |   1  | 6장     | 게임판 덮기                         | [BOARDCOVER](https://algospot.com/judge/problem/read/BOARDCOVER)    |        |     |     | &#10004; |
-|   1  | 6장     | 시계 맞추기                         | [CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC)     |        |     |     |         |
+|   1  | 6장     | 시계 맞추기                         | [CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC)     |        |     |     | &#10004; |
 |      | 7장     | 쿼드 트리 뒤집기                    | QUADTREE      |        |     |     |         |
 |      | 7장     | 울타리 잘라내기                     | FENCE         |        |     |     |         |
 |      | 7장     | 팬 미팅                             | FANMEETING    |        |     |     |         |
