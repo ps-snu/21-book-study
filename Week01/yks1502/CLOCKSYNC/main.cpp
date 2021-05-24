@@ -4,6 +4,7 @@ using namespace std;
 
 void pushSwitch(int* clock, int sw);
 int sync(int* clock, int idx);
+const int INF = 10000000;
 
 vector<vector<int>> switches = {
     {0, 1, 2},
@@ -30,7 +31,7 @@ int main() {
         }
         
         int result = sync(clock, 0);
-        result = result == INT_MAX ? -1 : result;
+        result = result == INF ? -1 : result;
         cout << result << endl;
     }
 }
@@ -40,7 +41,6 @@ void pushSwitch(int* clock, int sw) {
     for (int i = 0; i < wiredClocks; i++) {
         int wiredClock = switches[sw][i];
         clock[wiredClock] = (clock[wiredClock] + 3) % 12;
-        cout << sw << " " << wiredClocks << " " << wiredClock << endl;
     }
 }
 
@@ -56,9 +56,9 @@ int sync(int* clock, int idx) {
     }
 
     if (allSync) return 0;
-    if (idx == 10) return INT_MAX;
+    if (idx == 10) return INF;
 
-    int result = INT_MAX;
+    int result = INF;
 
     for (int i = 0; i < 4; i++) {
         result = min(i + sync(clock, idx + 1), result);
