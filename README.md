@@ -3,13 +3,13 @@
 ### 2021-05-17 ~ : 알고리즘 문제 해결 전략 ([온라인 저지](https://book.algospot.com/problems.html))
 | Week | 장 번호 | 문제 이름                           | ID            | elzino | lgm | yks | lucetre |
 |:----:|:---------:|-------------------------------------|---------------|:------:|:---:|:---:|:-------:|
-|   1  | 1장     | 록 페스티벌                         | [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL)      | &#10004;       |     |     |  &#10004; |
-|   1  | 6장     | 보글 게임                           | [BOGGLE](http://algospot.com/judge/problem/read/BOGGLE)        |  &#10004;      |     |     |  &#10004; |
-|   1  | 6장     | 소풍                                | [PICNIC](https://algospot.com/judge/problem/read/PICNIC)        |  &#10004;      |     |     | &#10004; |
-|   1  | 6장     | 게임판 덮기                         | [BOARDCOVER](https://algospot.com/judge/problem/read/BOARDCOVER)    |  &#10004;      |     |     | &#10004; |
-|   1  | 6장     | 시계 맞추기                         | [CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC)     |  &#10004;      |     |     | &#10004; |
-|      | 7장     | 쿼드 트리 뒤집기                    | QUADTREE      |        |     |     |         |
-|      | 7장     | 울타리 잘라내기                     | FENCE         |        |     |     |         |
+|   1  | 1장     | 록 페스티벌                         | [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL)      | &#10004;       |     | &#10004; |  &#10004; |
+|   1  | 6장     | 보글 게임                           | [BOGGLE](http://algospot.com/judge/problem/read/BOGGLE)        |  &#10004;      |     | &#10004; |  &#10004; |
+|   1  | 6장     | 소풍                                | [PICNIC](https://algospot.com/judge/problem/read/PICNIC)        |  &#10004;      |     | &#10004; | &#10004; |
+|   1  | 6장     | 게임판 덮기                         | [BOARDCOVER](https://algospot.com/judge/problem/read/BOARDCOVER)    |  &#10004;      |     | &#10004; | &#10004; |
+|   1  | 6장     | 시계 맞추기                         | [CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC)     |  &#10004;      |     | &#10004; | &#10004; |
+|   2  | 7장     | 쿼드 트리 뒤집기                    | [QUADTREE](https://algospot.com/judge/problem/read/QUADTREE)      | &#10004; |     |     |         |
+|   2  | 7장     | 울타리 잘라내기                     | [FENCE](https://algospot.com/judge/problem/read/FENCE)         | &#10004; |     |     |         |
 |      | 7장     | 팬 미팅                             | FANMEETING    |        |     |     |         |
 |      | 8장     | 외발뛰기                            | JUMPGAME      |        |     |     |         |
 |      | 8장     | 와일드카드                          | WILDCARD      |        |     |     |         |
