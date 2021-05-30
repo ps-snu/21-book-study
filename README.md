@@ -10,7 +10,7 @@
 |   1  | 6장     | 시계 맞추기                         | [CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC)     |  &#10004;      | &#10004;    | &#10004; | &#10004; |
 |   2  | 7장     | 쿼드 트리 뒤집기                    | [QUADTREE](https://algospot.com/judge/problem/read/QUADTREE)      | &#10004; | &#10004;    |    | &#10004; |
 |   2  | 7장     | 울타리 잘라내기                     | [FENCE](https://algospot.com/judge/problem/read/FENCE)         | &#10004; |     |     |  &#10004;       |
-|      | 7장     | 팬 미팅                             | [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING)    |        |     |     |  &#x23F3; |
+|   2  | 7장     | 팬 미팅                             | [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING)    | &#x23F3;    |     |     |  &#x23F3; |
 |      | 8장     | 외발뛰기                            | JUMPGAME      |        |     |     |         |
 |      | 8장     | 와일드카드                          | WILDCARD      |        |     |     |         |
 |      | 8장     | 삼각형 위의 최대 경로               | TRIANGLEPATH  |        |     |     |         |
