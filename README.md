@@ -11,14 +11,14 @@
 |   2  | 7장     | 쿼드 트리 뒤집기                    | [QUADTREE](https://algospot.com/judge/problem/read/QUADTREE)      | &#10004; | &#10004;    | &#10004; | &#10004; |
 |   2  | 7장     | 울타리 잘라내기                     | [FENCE](https://algospot.com/judge/problem/read/FENCE)         | &#10004; |     | &#10004; |  &#10004;       |
 |   2  | 7장     | 팬 미팅                             | [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING)    | &#x23F3;    |     | &#10004; |  &#x23F3; |
-|      | 8장     | 외발뛰기                            | JUMPGAME      |        |     |     |         |
-|      | 8장     | 와일드카드                          | WILDCARD      |        |     |     |         |
-|      | 8장     | 삼각형 위의 최대 경로               | TRIANGLEPATH  |        |     |     |         |
-|      | 8장     | 최대 부분 증가 수열                 | LIS           |        |     |     |         |
-|      | 8장     | 합친 LIS                            | JLIS          |        |     |     |         |
-|      | 8장     | 원주율 외우기                       | PI            |        |     |     |         |
-|      | 8장     | Quantization                        | QUANTIZE      |        |     |     |         |
-|      | 8장     | 타일링 방법의 수 세기               | TILING2       |        |     |     |         |
+|   3   | 8장     | 외발뛰기                            | [JUMPGAME](https://algospot.com/judge/problem/read/JUMPGAME)      |        |     |     | &#10004; |
+|   3   | 8장     | 와일드카드                          | [WILDCARD](https://algospot.com/judge/problem/read/WILDCARD)      |        |     |     |         |
+|   3   | 8장     | 삼각형 위의 최대 경로               | [TRIANGLEPATH](https://algospot.com/judge/problem/read/TRIANGLEPATH)  |        |     |     |         |
+|   3   | 8장     | 최대 부분 증가 수열                 | [LIS](https://algospot.com/judge/problem/read/LIS)           |        |     |     |         |
+|   3   | 8장     | 합친 LIS                            | [JLIS](https://algospot.com/judge/problem/read/JLIS)          |        |     |     |         |
+|   3   | 8장     | 원주율 외우기                       | [PI](https://algospot.com/judge/problem/read/PI)            |        |     |     |         |
+|   3   | 8장     | Quantization                        | [QUANTIZE](https://algospot.com/judge/problem/read/QUANTIZE)      |        |     |     |         |
+|   3   | 8장     | 타일링 방법의 수 세기               | [TILING2](https://algospot.com/judge/problem/read/TILING2)       |        |     |     |         |
 |      | 8장     | 삼각형 위의 최대 경로 수 세기       | TRIPATHCNT    |        |     |     |         |
 |      | 8장     | 달팽이                              | SNAIL         |        |     |     |         |
 |      | 8장     | 비대칭 타일링                       | ASYMTILING    |        |     |     |         |
