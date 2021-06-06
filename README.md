@@ -16,7 +16,7 @@
 |   3   | 8장     | 삼각형 위의 최대 경로               | [TRIANGLEPATH](https://algospot.com/judge/problem/read/TRIANGLEPATH)  |        |     |     | &#10004; |
 |   3   | 8장     | 최대 부분 증가 수열                 | [LIS](https://algospot.com/judge/problem/read/LIS)           |        |     |     | &#10004; |
 |   3   | 8장     | 합친 LIS                            | [JLIS](https://algospot.com/judge/problem/read/JLIS)          |        |     |     | &#10004; |
-|   3   | 8장     | 원주율 외우기                       | [PI](https://algospot.com/judge/problem/read/PI)            |        |     |     |         |
+|   3   | 8장     | 원주율 외우기                       | [PI](https://algospot.com/judge/problem/read/PI)            |        |     |     | &#10004; |
 |   3   | 8장     | Quantization                        | [QUANTIZE](https://algospot.com/judge/problem/read/QUANTIZE)      |        |     |     | &#10004; |
 |   3   | 8장     | 타일링 방법의 수 세기               | [TILING2](https://algospot.com/judge/problem/read/TILING2)       |        |     |     | &#10004; |
 |      | 8장     | 삼각형 위의 최대 경로 수 세기       | TRIPATHCNT    |        |     |     |         |
