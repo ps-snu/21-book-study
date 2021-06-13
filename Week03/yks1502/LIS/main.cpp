@@ -2,8 +2,9 @@
 using namespace std;
 
 int C, N;
-int elm[100];
-int cache[100];
+int elm[500];
+int cache[500];
+int result;
 
 int lis(int idx) {
     if (idx == N - 1) return 1;
@@ -24,10 +25,19 @@ int main() {
     for (int i = 0; i < C; i++) {
         cin >> N;
         memset(cache, -1, sizeof(cache));
+        result = 0;
         for (int j = 0; j < N; j++) {
             cin >> elm[j];
         }
-        int ret = lis(0);
-        cout << ret << endl;
+        
+        for (int j = 0; j < N; j++) {
+            lis(j);
+        }
+
+        for (int j = 0; j < N; j++) {
+            result = max(result, cache[j]);
+        }
+        
+        cout << result << endl;
     }
 }
