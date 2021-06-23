@@ -11,11 +11,11 @@
 |   2  | 7장     | 쿼드 트리 뒤집기                    | [QUADTREE](https://algospot.com/judge/problem/read/QUADTREE)      | &#10004; | &#10004;    | &#10004; | &#10004; |
 |   2  | 7장     | 울타리 잘라내기                     | [FENCE](https://algospot.com/judge/problem/read/FENCE)         | &#10004; | &#10004;    | &#10004; |  &#10004;       |
 |   2  | 7장     | 팬 미팅                             | [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING)    | &#x23F3;    | &#x23F3;    | &#10004; |  &#x23F3; |
-|   3   | 8장     | 외발뛰기                            | [JUMPGAME](https://algospot.com/judge/problem/read/JUMPGAME)      |   &#10004;     |     |     | &#10004; |
-|   3   | 8장     | 와일드카드                          | [WILDCARD](https://algospot.com/judge/problem/read/WILDCARD)      |  &#10004;      |     |     | &#10004; |
-|   3   | 8장     | 삼각형 위의 최대 경로               | [TRIANGLEPATH](https://algospot.com/judge/problem/read/TRIANGLEPATH)  |  &#10004;      |     |     | &#10004; |
-|   3   | 8장     | 최대 부분 증가 수열                 | [LIS](https://algospot.com/judge/problem/read/LIS)           |   &#10004;     |     |     | &#10004; |
-|   3   | 8장     | 합친 LIS                            | [JLIS](https://algospot.com/judge/problem/read/JLIS)          |  &#10004;      |     |     | &#10004; |
+|   3   | 8장     | 외발뛰기                            | [JUMPGAME](https://algospot.com/judge/problem/read/JUMPGAME)      |   &#10004;     |&#10004;     |     | &#10004; |
+|   3   | 8장     | 와일드카드                          | [WILDCARD](https://algospot.com/judge/problem/read/WILDCARD)      |  &#10004;      |&#10004;     |     | &#10004; |
+|   3   | 8장     | 삼각형 위의 최대 경로               | [TRIANGLEPATH](https://algospot.com/judge/problem/read/TRIANGLEPATH)  |  &#10004;      |&#10004;     |     | &#10004; |
+|   3   | 8장     | 최대 부분 증가 수열                 | [LIS](https://algospot.com/judge/problem/read/LIS)           |   &#10004;     |&#10004;     |     | &#10004; |
+|   3   | 8장     | 합친 LIS                            | [JLIS](https://algospot.com/judge/problem/read/JLIS)          |  &#10004;      |&#x23F3;     |     | &#10004; |
 |   3   | 8장     | 원주율 외우기                       | [PI](https://algospot.com/judge/problem/read/PI)            |  &#10004;      |     |     | &#10004; |
 |   3   | 8장     | Quantization                        | [QUANTIZE](https://algospot.com/judge/problem/read/QUANTIZE)      |  &#10004;      |     |     | &#10004; |
 |   3   | 8장     | 타일링 방법의 수 세기               | [TILING2](https://algospot.com/judge/problem/read/TILING2)       |   &#10004;     |     |     | &#10004; |
