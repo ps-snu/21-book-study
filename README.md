@@ -9,8 +9,8 @@
 |   1  | 6장     | 게임판 덮기                         | [BOARDCOVER](https://algospot.com/judge/problem/read/BOARDCOVER)    |  &#10004;      | &#10004;    | &#10004; | &#10004; |
 |   1  | 6장     | 시계 맞추기                         | [CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC)     |  &#10004;      | &#10004;    | &#10004; | &#10004; |
 |   2  | 7장     | 쿼드 트리 뒤집기                    | [QUADTREE](https://algospot.com/judge/problem/read/QUADTREE)      | &#10004; | &#10004;    | &#10004; | &#10004; |
-|   2  | 7장     | 울타리 잘라내기                     | [FENCE](https://algospot.com/judge/problem/read/FENCE)         | &#10004; |     | &#10004; |  &#10004;       |
-|   2  | 7장     | 팬 미팅                             | [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING)    | &#x23F3;    |     | &#10004; |  &#x23F3; |
+|   2  | 7장     | 울타리 잘라내기                     | [FENCE](https://algospot.com/judge/problem/read/FENCE)         | &#10004; | &#10004;    | &#10004; |  &#10004;       |
+|   2  | 7장     | 팬 미팅                             | [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING)    | &#x23F3;    | &#x23F3;    | &#10004; |  &#x23F3; |
 |   3   | 8장     | 외발뛰기                            | [JUMPGAME](https://algospot.com/judge/problem/read/JUMPGAME)      |   &#10004;     |     |     | &#10004; |
 |   3   | 8장     | 와일드카드                          | [WILDCARD](https://algospot.com/judge/problem/read/WILDCARD)      |  &#10004;      |     |     | &#10004; |
 |   3   | 8장     | 삼각형 위의 최대 경로               | [TRIANGLEPATH](https://algospot.com/judge/problem/read/TRIANGLEPATH)  |  &#10004;      |     |     | &#10004; |
