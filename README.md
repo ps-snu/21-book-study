@@ -23,7 +23,7 @@
 | 4 | 8장 | 달팽이 | [SNAIL](https://algospot.com/judge/problem/read/SNAIL) |  |  |  |  | &#10004; |
 | 4 | 8장 | 비대칭 타일링 | [ASYMTILING](https://algospot.com/judge/problem/read/ASYMTILING) |  |  |  |  | &#10004; |
 | 4 | 8장 | 폴리오미노 | [POLY](https://algospot.com/judge/problem/read/POLY) |  |  |  |  | &#10004; |
-| 4 | 8장 | 두니발 박사의 탈옥 | [NUMB3RS](https://algospot.com/judge/problem/read/NUMB3RS) |  |  |  |  |  |
+| 4 | 8장 | 두니발 박사의 탈옥 | [NUMB3RS](https://algospot.com/judge/problem/read/NUMB3RS) |  |  |  |  | &#10004; |
 |  | 9장 | 여행 짐 싸기 | PACKING |  |  |  |  |  |
 |  | 9장 | 광학 문자 인식 | OCR |  |  |  |  |  |
 |  | 9장 | 모스 부호 사전 | MORSE |  |  |  |  |  |
