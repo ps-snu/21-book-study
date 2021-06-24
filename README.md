@@ -2,7 +2,7 @@
 
 ### 2021-05-17 ~ : 알고리즘 문제 해결 전략 ([온라인 저지](https://book.algospot.com/problems.html))
 | Week | 장 번호 | 문제 이름 | ID | elzino | lgm | yks | yuvin | lucetre |
-|---|---|---|---|---|---|---|---|---|
+|:---:|:---:|---|---|:---:|:---:|:---:|:---:|:---:|
 | 1 | 1장 | 록 페스티벌 | [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 1 | 6장 | 보글 게임 | [BOGGLE](http://algospot.com/judge/problem/read/BOGGLE) | &#10004; | &#10004; | &#x23F3; |  | &#10004; |
 | 1 | 6장 | 소풍 | [PICNIC](https://algospot.com/judge/problem/read/PICNIC) | &#10004; | &#10004; | &#10004; |  | &#10004; |
@@ -21,7 +21,7 @@
 | 3 | 8장 | 타일링 방법의 수 세기 | [TILING2](https://algospot.com/judge/problem/read/TILING2) | &#10004; |  | &#10004; |  | &#10004; |
 | 4 | 8장 | 삼각형 위의 최대 경로 수 세기 | [TRIPATHCNT](https://algospot.com/judge/problem/read/TRIPATHCNT) |  |  |  |  | &#10004; |
 | 4 | 8장 | 달팽이 | [SNAIL](https://algospot.com/judge/problem/read/SNAIL) |  |  |  |  | &#10004; |
-| 4 | 8장 | 비대칭 타일링 | [ASYMTILING](https://algospot.com/judge/problem/read/ASYMTILING) |  |  |  |  |  |
+| 4 | 8장 | 비대칭 타일링 | [ASYMTILING](https://algospot.com/judge/problem/read/ASYMTILING) |  |  |  |  | &#10004; |
 | 4 | 8장 | 폴리오미노 | [POLY](https://algospot.com/judge/problem/read/POLY) |  |  |  |  |  |
 | 4 | 8장 | 두니발 박사의 탈옥 | [NUMB3RS](https://algospot.com/judge/problem/read/NUMB3RS) |  |  |  |  |  |
 |  | 9장 | 여행 짐 싸기 | PACKING |  |  |  |  |  |
