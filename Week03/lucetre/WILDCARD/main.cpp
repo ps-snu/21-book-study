@@ -23,13 +23,13 @@ bool process(string source, string target) {
         }
     }
 
-    // cout << endl << "  " << target << endl;
-    // for (int i = 0; i <= n; i++) {
-    //     cout << (i ? source[i-1] : ' '); 
-    //     for (int j = 0; j <= m; j++)
-    //         cout << d[i][j];
-    //     cout << endl;
-    // }
+    cout << endl << "  " << target << endl;
+    for (int i = 0; i <= n; i++) {
+        cout << (i ? source[i-1] : ' '); 
+        for (int j = 0; j <= m; j++)
+            cout << d[i][j];
+        cout << endl;
+    }
     
     return d[n][m];
 }

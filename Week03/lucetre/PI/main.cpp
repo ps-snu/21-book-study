@@ -35,12 +35,16 @@ int difficulty(int s, int e) {
 
 int process() {
     d[0] = 0;
+    for (int i = 0; i <= n; i++) cout << a[i] << " ";
+    cout << endl;
     for (int i = 1; i <= n; i++) { 
         d[i] = INF;
         for (int j = 3; j <= 5; j++)
             if (i-j >= 0)
                 d[i] = min(d[i], d[i-j] + difficulty(i-j, i-1));
+        cout << (d[i] == INF ? -1 : d[i]) << " ";
     }
+    cout << endl;
     return d[n];
 }
 

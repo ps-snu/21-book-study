@@ -10,7 +10,6 @@ int solve(string s, string t, int s_idx, int t_idx) {
             if(s[s_idx] != '*') return 0;
             s_idx++;
         }
-        
     }
 
     if(s[s_idx] == '?') {

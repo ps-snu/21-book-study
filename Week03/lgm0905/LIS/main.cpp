@@ -13,7 +13,7 @@ void solve(int idx) {
 }
 
 int main() {
-    freopen("input.txt", "r", stdin);
+    // freopen("input.txt", "r", stdin);
     int T; cin >> T;
     for (int t = 0; t < T; t++) {
         fill(d, d + M, 1); cin >> N;
