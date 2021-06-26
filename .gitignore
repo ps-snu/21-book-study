@@ -34,3 +34,6 @@
 # VSCode
 .vscode/
 *.DS_Store
+
+#python vritual env
+env/
