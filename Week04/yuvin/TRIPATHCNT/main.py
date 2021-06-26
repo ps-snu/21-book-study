@@ -3,7 +3,7 @@ for i in range(num):
     size = int(input())
     res_list = list()
     for i in range(size):
-        tri_row = list(map(int,input().split(" ")))
+        tri_row = list(map(int,input().rstrip().split(" ")))
         if i == 0:
             res_list.append((tri_row[0],1))
         else:
