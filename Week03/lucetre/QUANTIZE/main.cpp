@@ -30,14 +30,16 @@ int process() {
     for (int i = 1; i < s; i++) {
         for (int j = i; j < n; j++) {
             d[i][j] = INF;
-            for (int k = 0; k < j; k++)
+            for (int k = 0; k < j; k++) {
                 d[i][j] = min(d[i][j], d[i-1][k] + q[k+1][j]);
+            }
         }
     }
 
     for (int i = 0; i < s; i++) {
-        for (int j = 0; j < n; j++)
-            cout << d[i][j] << " ";
+        for (int j = 0; j < n; j++){
+            cout << d[i][j] << " " << endl;
+        }
         cout << endl;
     }
     return d[s-1][n-1];
