@@ -15,7 +15,6 @@ for i in `ls -d $1/*`; do
             if [ ${arr[4]} != "input.txt" ]; then
                 cp $k $1/Combine/${arr[3]}/"${arr[2]}_${arr[4]}";
             fi
-            
         done
     done
 done
