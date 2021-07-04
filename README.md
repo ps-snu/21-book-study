@@ -30,12 +30,12 @@
 | 5 | 9장 | k번째 최대 증가 부분 수열 | [KLIS](https://algospot.com/judge/problem/read/KLIS) |  |  |  |  |  |
 | 5 | 9장 | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) |  |  |  |  |  |
 | 5 | 9장 | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) |  |  |  |  |  |
-|  | 9장 | 실험 데이터 복구하기 | RESTORE |  |  |  |  |  |
-|  | 9장 | 틱택토 | TICTACTOE |  |  |  |  |  |
-|  | 9장 | 숫자 게임 | NUMBERGAME |  |  |  |  |  |
-|  | 9장 | 블록 게임 | BLOCKGAME |  |  |  |  |  |
-|  | 9장 | 회전초밥 | SUSHI |  |  |  |  |  |
-|  | 9장 | 지니어스 | GENIUS |  |  |  |  |  |
+| 5 | 9장 | 실험 데이터 복구하기 | [RESTORE](https://algospot.com/judge/problem/read/RESTORE) |  |  |  |  |  |
+| 5 | 9장 | 틱택토 | [TICTACTOE](https://algospot.com/judge/problem/read/TICTACTOE) |  |  |  |  |  |
+| 5 | 9장 | 숫자 게임 | [NUMBERGAME](https://algospot.com/judge/problem/read/NUMBERGAME) |  |  |  |  |  |
+| 5 | 9장 | 블록 게임 | [BLOCKGAME](https://algospot.com/judge/problem/read/BLOCKGAME) |  |  |  |  |  |
+| 5 | 9장 | 회전초밥 | [SUSHI](https://algospot.com/judge/problem/read/SUSHI) |  |  |  |  |  |
+| 5 | 9장 | 지니어스 | [GENIUS](https://algospot.com/judge/problem/read/GENIUS) |  |  |  |  |  |
 |  | 10장 | 출전 순서 정하기 | MATCHORDER |  |  |  |  |  |
 |  | 10장 | 도시락 데우기 | LUNCHBOX |  |  |  |  |  |
 |  | 10장 | 문자열 합치기 | STRJOIN |  |  |  |  |  |
