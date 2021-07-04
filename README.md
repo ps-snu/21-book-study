@@ -24,12 +24,12 @@
 | 4 | 8장 | 비대칭 타일링 | [ASYMTILING](https://algospot.com/judge/problem/read/ASYMTILING) | &#10004; |  &#10004; | &#10004; | &#10004; | &#10004; |
 | 4 | 8장 | 폴리오미노 | [POLY](https://algospot.com/judge/problem/read/POLY) | &#10004; |  &#10004; | &#10004; | &#10004; | &#10004; |
 | 4 | 8장 | 두니발 박사의 탈옥 | [NUMB3RS](https://algospot.com/judge/problem/read/NUMB3RS) |&#10004;  |  &#10004; | &#10004; | &#10004; | &#10004; |
-|  | 9장 | 여행 짐 싸기 | PACKING |  |  |  |  |  |
-|  | 9장 | 광학 문자 인식 | OCR |  |  |  |  |  |
-|  | 9장 | 모스 부호 사전 | MORSE |  |  |  |  |  |
-|  | 9장 | k번째 최대 증가 부분 수열 | KLIS |  |  |  |  |  |
-|  | 9장 | 드래곤 커브 | DRAGON |  |  |  |  |  |
-|  | 9장 | 웨브바짐 | ZIMBABWE |  |  |  |  |  |
+| 5 | 9장 | 여행 짐 싸기 | [PACKING](https://algospot.com/judge/problem/read/PACKING) |  |  |  |  |  |
+| 5 | 9장 | 광학 문자 인식 | [OCR] |(https://algospot.com/judge/problem/read/OCR)  |  |  |  |  |
+| 5 | 9장 | 모스 부호 사전 | [MORSE](https://algospot.com/judge/problem/read/MORSE) |  |  |  |  |  |
+| 5 | 9장 | k번째 최대 증가 부분 수열 | [KLIS](https://algospot.com/judge/problem/read/KLIS) |  |  |  |  |  |
+| 5 | 9장 | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) |  |  |  |  |  |
+| 5 | 9장 | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) |  |  |  |  |  |
 |  | 9장 | 실험 데이터 복구하기 | RESTORE |  |  |  |  |  |
 |  | 9장 | 틱택토 | TICTACTOE |  |  |  |  |  |
 |  | 9장 | 숫자 게임 | NUMBERGAME |  |  |  |  |  |
