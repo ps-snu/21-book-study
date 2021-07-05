@@ -15,27 +15,27 @@
 | 3 | 8장 | 와일드카드 | [WILDCARD](https://algospot.com/judge/problem/read/WILDCARD) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 3 | 8장 | 삼각형 위의 최대 경로 | [TRIANGLEPATH](https://algospot.com/judge/problem/read/TRIANGLEPATH) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 3 | 8장 | 최대 부분 증가 수열 | [LIS](https://algospot.com/judge/problem/read/LIS) | &#10004; | &#10004; | &#10004; |  | &#10004; |
-| 3 | 8장 | 합친 LIS | [JLIS](https://algospot.com/judge/problem/read/JLIS) | &#10004; | &#x23F3; | &#10004; |  | &#10004; |
-| 3 | 8장 | 원주율 외우기 | [PI](https://algospot.com/judge/problem/read/PI) | &#10004; |  | &#10004; |  | &#10004; |
-| 3 | 8장 | Quantization | [QUANTIZE](https://algospot.com/judge/problem/read/QUANTIZE) | &#10004; |  | &#10004; |  | &#10004; |
-| 3 | 8장 | 타일링 방법의 수 세기 | [TILING2](https://algospot.com/judge/problem/read/TILING2) | &#10004; |  | &#10004; |  | &#10004; |
-| 4 | 8장 | 삼각형 위의 최대 경로 수 세기 | [TRIPATHCNT](https://algospot.com/judge/problem/read/TRIPATHCNT) |  |  | &#10004; | &#10004; | &#10004; |
-| 4 | 8장 | 달팽이 | [SNAIL](https://algospot.com/judge/problem/read/SNAIL) |  |  | &#10004; | &#10004; | &#10004; |
-| 4 | 8장 | 비대칭 타일링 | [ASYMTILING](https://algospot.com/judge/problem/read/ASYMTILING) |  |  | &#10004; | &#10004; | &#10004; |
-| 4 | 8장 | 폴리오미노 | [POLY](https://algospot.com/judge/problem/read/POLY) |  |  | &#10004; | &#10004; | &#10004; |
-| 4 | 8장 | 두니발 박사의 탈옥 | [NUMB3RS](https://algospot.com/judge/problem/read/NUMB3RS) |  |  | &#10004; | &#10004; | &#10004; |
-|  | 9장 | 여행 짐 싸기 | PACKING |  |  |  |  |  |
-|  | 9장 | 광학 문자 인식 | OCR |  |  |  |  |  |
-|  | 9장 | 모스 부호 사전 | MORSE |  |  |  |  |  |
-|  | 9장 | k번째 최대 증가 부분 수열 | KLIS |  |  |  |  |  |
-|  | 9장 | 드래곤 커브 | DRAGON |  |  |  |  |  |
-|  | 9장 | 웨브바짐 | ZIMBABWE |  |  |  |  |  |
-|  | 9장 | 실험 데이터 복구하기 | RESTORE |  |  |  |  |  |
-|  | 9장 | 틱택토 | TICTACTOE |  |  |  |  |  |
-|  | 9장 | 숫자 게임 | NUMBERGAME |  |  |  |  |  |
-|  | 9장 | 블록 게임 | BLOCKGAME |  |  |  |  |  |
-|  | 9장 | 회전초밥 | SUSHI |  |  |  |  |  |
-|  | 9장 | 지니어스 | GENIUS |  |  |  |  |  |
+| 3 | 8장 | 합친 LIS | [JLIS](https://algospot.com/judge/problem/read/JLIS) | &#10004; |  &#10004; | &#10004; |  | &#10004; |
+| 3 | 8장 | 원주율 외우기 | [PI](https://algospot.com/judge/problem/read/PI) | &#10004; |  &#10004; | &#10004; |  | &#10004; |
+| 3 | 8장 | Quantization | [QUANTIZE](https://algospot.com/judge/problem/read/QUANTIZE) | &#10004; |  &#10004; | &#10004; |  | &#10004; |
+| 3 | 8장 | 타일링 방법의 수 세기 | [TILING2](https://algospot.com/judge/problem/read/TILING2) | &#10004; |  &#10004; | &#10004; |  | &#10004; |
+| 4 | 8장 | 삼각형 위의 최대 경로 수 세기 | [TRIPATHCNT](https://algospot.com/judge/problem/read/TRIPATHCNT) | &#10004; |  &#10004; | &#10004; | &#10004; | &#10004; |
+| 4 | 8장 | 달팽이 | [SNAIL](https://algospot.com/judge/problem/read/SNAIL) | &#10004; |  &#10004; | &#10004; | &#10004; | &#10004; |
+| 4 | 8장 | 비대칭 타일링 | [ASYMTILING](https://algospot.com/judge/problem/read/ASYMTILING) | &#10004; |  &#10004; | &#10004; | &#10004; | &#10004; |
+| 4 | 8장 | 폴리오미노 | [POLY](https://algospot.com/judge/problem/read/POLY) | &#10004; |  &#10004; | &#10004; | &#10004; | &#10004; |
+| 4 | 8장 | 두니발 박사의 탈옥 | [NUMB3RS](https://algospot.com/judge/problem/read/NUMB3RS) |&#10004;  |  &#10004; | &#10004; | &#10004; | &#10004; |
+| 5 | 9장 | 여행 짐 싸기 | [PACKING](https://algospot.com/judge/problem/read/PACKING) |  |  |  |  |  |
+| 5 | 9장 | 광학 문자 인식 | [OCR](https://algospot.com/judge/problem/read/OCR) |  |  |  |  |  |
+| 5 | 9장 | 모스 부호 사전 | [MORSE](https://algospot.com/judge/problem/read/MORSE) |  |  |  |  |  |
+| 5 | 9장 | k번째 최대 증가 부분 수열 | [KLIS](https://algospot.com/judge/problem/read/KLIS) |  |  |  |  |  |
+| 5 | 9장 | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) |  |  |  |  |  |
+| 5 | 9장 | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) |  |  |  |  |  |
+| 5 | 9장 | 실험 데이터 복구하기 | [RESTORE](https://algospot.com/judge/problem/read/RESTORE) |  |  |  |  |  |
+| 5 | 9장 | 틱택토 | [TICTACTOE](https://algospot.com/judge/problem/read/TICTACTOE) |  |  |  |  |  |
+| 5 | 9장 | 숫자 게임 | [NUMBERGAME](https://algospot.com/judge/problem/read/NUMBERGAME) |  |  |  |  |  |
+| 5 | 9장 | 블록 게임 | [BLOCKGAME](https://algospot.com/judge/problem/read/BLOCKGAME) |  |  |  |  |  |
+| 5 | 9장 | 회전초밥 | [SUSHI](https://algospot.com/judge/problem/read/SUSHI) |  |  |  |  |  |
+| 5 | 9장 | 지니어스 | [GENIUS](https://algospot.com/judge/problem/read/GENIUS) |  |  |  |  |  |
 |  | 10장 | 출전 순서 정하기 | MATCHORDER |  |  |  |  |  |
 |  | 10장 | 도시락 데우기 | LUNCHBOX |  |  |  |  |  |
 |  | 10장 | 문자열 합치기 | STRJOIN |  |  |  |  |  |
