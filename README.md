@@ -28,8 +28,8 @@
 | 5 | 9장 | 광학 문자 인식 | [OCR](https://algospot.com/judge/problem/read/OCR) | &#10004; |  |  |  |  |
 | 5 | 9장 | 모스 부호 사전 | [MORSE](https://algospot.com/judge/problem/read/MORSE) | &#10004; |  |  |  |  |
 | 5 | 9장 | k번째 최대 증가 부분 수열 | [KLIS](https://algospot.com/judge/problem/read/KLIS) | &#10004; |  |  |  |  |
-| 5 | 9장 | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) |  |  |  |  |  |
-| 5 | 9장 | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) |  |  |  |  |  |
+| 5 | 9장 | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) | &#10004; |  |  |  |  |
+| 5 | 9장 | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) | &#10004; |  |  |  |  |
 | 5 | 9장 | 실험 데이터 복구하기 | [RESTORE](https://algospot.com/judge/problem/read/RESTORE) |  |  |  |  |  |
 | 5 | 9장 | 틱택토 | [TICTACTOE](https://algospot.com/judge/problem/read/TICTACTOE) |  |  |  |  |  |
 | 5 | 9장 | 숫자 게임 | [NUMBERGAME](https://algospot.com/judge/problem/read/NUMBERGAME) |  |  |  |  |  |
