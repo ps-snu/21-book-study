@@ -15,7 +15,7 @@ void solve() {
     for(int i = 0; i <= w; i++) {
         for(int j = 0; j < n; j++) {
             if(i + in[j].v > w) continue;
-            if(psum[i + in[j].v] < psum[i] + in[j].p && d[i][j] == 0) {
+            if((psum[i + in[j].v] <= psum[i] + in[j].p) && (d[i][j] == 0)) {
                 psum[i + in[j].v] = psum[i] + in[j].p;
                 for(int k = 0; k < n; k++)
                     d[i + in[j].v][k] = d[i][k];
@@ -24,7 +24,7 @@ void solve() {
         }
     }
 
-    int pmax = 0; int wsum = 0;
+    int pmax = -1; int wsum = 0;
     for(int i = 0; i <= w; i++) {
         if(pmax < psum[i]) {
             pmax = psum[i];
