@@ -32,6 +32,7 @@
 #         return 0.25 * escape_prob2(n-1,m-1) + 0.75 * escape_prob2(n-2,m-1)
 
 prob_array = [[1,],]
+
 def escape_prob(n:int, m:int)->float:
     if m > len(prob_array[0]):
         for i in range(len(prob_array)):
