@@ -37,3 +37,6 @@
 
 #python vritual env
 env/
+
+#jupyter notebook
+*.ipynb
