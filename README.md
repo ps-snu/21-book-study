@@ -59,7 +59,7 @@
 |  | 16장 | 졸업 학기 | GRADUATION |  |  |  |  |  |
 |  | 17장 | 크리스마스 인형 | CHRISTMAS |  |  |  |  |  |
 | 6 | 18장 | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) |  |  |  |  |  |
-| 6 | 19장 | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) |  |  |  |  |  |
+| 6 | 19장 | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) |  |  |  | &#10004; |  |
 | 6 | 19장 | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) |  |  |  |  |  |
 |  | 20장 | 작명하기 | NAMING |  |  |  |  |  |
 |  | 20장 | 팰린드롬 만들기 | PALINDROMIZE |  |  |  |  |  |
