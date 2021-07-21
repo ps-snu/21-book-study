@@ -58,18 +58,18 @@
 |  | 15장 | 너드인가, 너드가 아닌가? | NERDS |  |  |  |  |  |
 |  | 16장 | 졸업 학기 | GRADUATION |  |  |  |  |  |
 |  | 17장 | 크리스마스 인형 | CHRISTMAS |  |  |  |  |  |
-| 6 | 18장 | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) |  |  |  |  |  |
-| 6 | 19장 | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) |  |  |  | &#10004; |  |
-| 6 | 19장 | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) |  |  |  |  |  |
+| 6 | 18장 | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) |&#10004;  |  |  |  |  |
+| 6 | 19장 | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) |&#10004;  |  |  | &#10004; |  |
+| 6 | 19장 | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) |&#10004;  |  |  |  |  |
 |  | 20장 | 작명하기 | NAMING |  |  |  |  |  |
 |  | 20장 | 팰린드롬 만들기 | PALINDROMIZE |  |  |  |  |  |
 |  | 20장 | 재하의 금고 | JAEHASAFE |  |  |  |  |  |
 |  | 20장 | 말버릇 | HABIT |  |  |  |  |  |
 |  | 21장 | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) |  |  |  |  |  |
 |  | 21장 | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) |  |  |  |  |  |
-|  | 22장 | 너드인가, 너드가 아닌가? 2 | NERD2 |  |  |  |  |  |
-|  | 22장 | 삽입 정렬 뒤집기 | INSERTION |  |  |  |  |  |
-|  | 23장 | 변화하는 중간 값 | RUNNINGMEDIAN |  |  |  |  |  |
+|  | 22장 | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) |  |  |  |  |  |
+|  | 22장 | 삽입 정렬 뒤집기 | [INSERTION](https://algospot.com/judge/problem/read/INSERTION) |  |  |  |  |  |
+|  | 23장 | 변화하는 중간 값 | [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN) |  |  |  |  |  |
 |  | 24장 | 등산로 | MORDOR |  |  |  |  |  |
 |  | 24장 | 족보 탐험 | FAMILYTREE |  |  |  |  |  |
 |  | 24장 | 삽입 정렬 시간 재기 | MEASURETIME |  |  |  |  |  |
