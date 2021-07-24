@@ -10,7 +10,7 @@
 | 1 | 6장 | 시계 맞추기 | [CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 2 | 7장 | 쿼드 트리 뒤집기 | [QUADTREE](https://algospot.com/judge/problem/read/QUADTREE) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 2 | 7장 | 울타리 잘라내기 | [FENCE](https://algospot.com/judge/problem/read/FENCE) | &#10004; | &#10004; | &#10004; |  | &#10004; |
-| 2 | 7장 | 팬 미팅 | [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING) | &#x23F3; | &#x23F3; | &#10004; |  | &#x23F3; |
+| 2 | 7장 | 팬 미팅 | [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING) | &#x23F3; | &#x23F3; | &#10004; |  | &#x1F4B8; |
 | 3 | 8장 | 외발뛰기 | [JUMPGAME](https://algospot.com/judge/problem/read/JUMPGAME) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 3 | 8장 | 와일드카드 | [WILDCARD](https://algospot.com/judge/problem/read/WILDCARD) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 3 | 8장 | 삼각형 위의 최대 경로 | [TRIANGLEPATH](https://algospot.com/judge/problem/read/TRIANGLEPATH) | &#10004; | &#10004; | &#10004; |  | &#10004; |
@@ -25,11 +25,11 @@
 | 4 | 8장 | 폴리오미노 | [POLY](https://algospot.com/judge/problem/read/POLY) | &#10004; |  &#10004; | &#10004; | &#10004; | &#10004; |
 | 4 | 8장 | 두니발 박사의 탈옥 | [NUMB3RS](https://algospot.com/judge/problem/read/NUMB3RS) |&#10004;  |  &#10004; | &#10004; | &#10004; | &#10004; |
 | 5 | 9장 | 여행 짐 싸기 | [PACKING](https://algospot.com/judge/problem/read/PACKING) | &#10004;  | &#x23F3; | &#10004; | &#x23F3; | &#10004; |
-| 5 | 9장 | 광학 문자 인식 | [OCR](https://algospot.com/judge/problem/read/OCR) | &#10004; | &#x23F3; | &#10004; | &#x23F3; | &#x1F595; |
+| 5 | 9장 | 광학 문자 인식 | [OCR](https://algospot.com/judge/problem/read/OCR) | &#10004; | &#x23F3; | &#10004; | &#x23F3; | &#x1F4B8; |
 | 5 | 9장 | 모스 부호 사전 | [MORSE](https://algospot.com/judge/problem/read/MORSE) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; |
 | 5 | 9장 | k번째 최대 증가 부분 수열 | [KLIS](https://algospot.com/judge/problem/read/KLIS) | &#10004; | &#x23F3;  |  | &#10004; | &#10004; |
 | 5 | 9장 | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) | &#10004; |  | &#x23F3; |  | &#10004; |
-| 5 | 9장 | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) | &#10004; |  |  |  | &#x1F595; |
+| 5 | 9장 | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) | &#10004; |  |  |  | &#x1F4B8; |
 |  | 9장 | 실험 데이터 복구하기 | [RESTORE](https://algospot.com/judge/problem/read/RESTORE) |  |  |  |  |  |
 |  | 9장 | 틱택토 | [TICTACTOE](https://algospot.com/judge/problem/read/TICTACTOE) |  |  |  |  |  |
 |  | 9장 | 숫자 게임 | [NUMBERGAME](https://algospot.com/judge/problem/read/NUMBERGAME) |  |  |  |  |  |
