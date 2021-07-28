@@ -65,11 +65,11 @@
 |  | 20장 | 팰린드롬 만들기 | PALINDROMIZE |  |  |  |  |  |
 |  | 20장 | 재하의 금고 | JAEHASAFE |  |  |  |  |  |
 |  | 20장 | 말버릇 | HABIT |  |  |  |  |  |
-| 7 | 21장 | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) |  |  |  |  |  |
-| 7 | 21장 | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) |  |  |  |  |  |
-| 7 | 22장 | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) |  |  |  |  |  |
-| 7 | 22장 | 삽입 정렬 뒤집기 | [INSERTION](https://algospot.com/judge/problem/read/INSERTION) |  |  |  |  |  |
-| 7 | 23장 | 변화하는 중간 값 | [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN) |  |  |  |  |  |
+| 7 | 21장 | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) |&#10004;  |  |  |  |  |
+| 7 | 21장 | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) |&#10004;  |  |  |  |  |
+| 7 | 22장 | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) |&#10004;  |  |  |  |  |
+| 7 | 22장 | 삽입 정렬 뒤집기 | [INSERTION](https://algospot.com/judge/problem/read/INSERTION) |&#10004;  |  |  |  |  |
+| 7 | 23장 | 변화하는 중간 값 | [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN) |&#10004;  |  |  |  |  |
 |  | 24장 | 등산로 | MORDOR |  |  |  |  |  |
 |  | 24장 | 족보 탐험 | FAMILYTREE |  |  |  |  |  |
 |  | 24장 | 삽입 정렬 시간 재기 | MEASURETIME |  |  |  |  |  |
