@@ -10,7 +10,7 @@
 | 1 | 6장 | 시계 맞추기 | [CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 2 | 7장 | 쿼드 트리 뒤집기 | [QUADTREE](https://algospot.com/judge/problem/read/QUADTREE) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 2 | 7장 | 울타리 잘라내기 | [FENCE](https://algospot.com/judge/problem/read/FENCE) | &#10004; | &#10004; | &#10004; |  | &#10004; |
-| 2 | 7장 | 팬 미팅 | [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING) | &#x23F3; | &#x23F3; | &#10004; |  | &#x23F3; |
+| 2 | 7장 | 팬 미팅 | [FANMEETING](https://algospot.com/judge/problem/read/FANMEETING) | &#x23F3; | &#x23F3; | &#10004; |  | &#x1F4B8; |
 | 3 | 8장 | 외발뛰기 | [JUMPGAME](https://algospot.com/judge/problem/read/JUMPGAME) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 3 | 8장 | 와일드카드 | [WILDCARD](https://algospot.com/judge/problem/read/WILDCARD) | &#10004; | &#10004; | &#10004; |  | &#10004; |
 | 3 | 8장 | 삼각형 위의 최대 경로 | [TRIANGLEPATH](https://algospot.com/judge/problem/read/TRIANGLEPATH) | &#10004; | &#10004; | &#10004; |  | &#10004; |
@@ -25,17 +25,17 @@
 | 4 | 8장 | 폴리오미노 | [POLY](https://algospot.com/judge/problem/read/POLY) | &#10004; |  &#10004; | &#10004; | &#10004; | &#10004; |
 | 4 | 8장 | 두니발 박사의 탈옥 | [NUMB3RS](https://algospot.com/judge/problem/read/NUMB3RS) |&#10004;  |  &#10004; | &#10004; | &#10004; | &#10004; |
 | 5 | 9장 | 여행 짐 싸기 | [PACKING](https://algospot.com/judge/problem/read/PACKING) | &#10004;  | &#x23F3; | &#10004; | &#x23F3; | &#10004; |
-| 5 | 9장 | 광학 문자 인식 | [OCR](https://algospot.com/judge/problem/read/OCR) | &#10004; | &#x23F3; | &#10004; | &#x23F3; | &#x1F595; |
+| 5 | 9장 | 광학 문자 인식 | [OCR](https://algospot.com/judge/problem/read/OCR) | &#10004; | &#x23F3; | &#10004; | &#x23F3; | &#x1F4B8; |
 | 5 | 9장 | 모스 부호 사전 | [MORSE](https://algospot.com/judge/problem/read/MORSE) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; |
 | 5 | 9장 | k번째 최대 증가 부분 수열 | [KLIS](https://algospot.com/judge/problem/read/KLIS) | &#10004; | &#x23F3;  |  | &#10004; | &#10004; |
 | 5 | 9장 | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) | &#10004; |  | &#x23F3; |  | &#10004; |
-| 5 | 9장 | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) | &#10004; |  |  |  | &#x1F595; |
-| 5 | 9장 | 실험 데이터 복구하기 | [RESTORE](https://algospot.com/judge/problem/read/RESTORE) |  |  |  |  |  |
-| 5 | 9장 | 틱택토 | [TICTACTOE](https://algospot.com/judge/problem/read/TICTACTOE) |  |  |  |  |  |
-| 5 | 9장 | 숫자 게임 | [NUMBERGAME](https://algospot.com/judge/problem/read/NUMBERGAME) |  |  |  |  |  |
-| 5 | 9장 | 블록 게임 | [BLOCKGAME](https://algospot.com/judge/problem/read/BLOCKGAME) |  |  |  |  |  |
-| 5 | 9장 | 회전초밥 | [SUSHI](https://algospot.com/judge/problem/read/SUSHI) |  |  |  |  |  |
-| 5 | 9장 | 지니어스 | [GENIUS](https://algospot.com/judge/problem/read/GENIUS) |  |  |  |  |  |
+| 5 | 9장 | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) | &#10004; |  |  |  | &#x1F4B8; |
+|  | 9장 | 실험 데이터 복구하기 | [RESTORE](https://algospot.com/judge/problem/read/RESTORE) |  |  |  |  |  |
+|  | 9장 | 틱택토 | [TICTACTOE](https://algospot.com/judge/problem/read/TICTACTOE) |  |  |  |  |  |
+|  | 9장 | 숫자 게임 | [NUMBERGAME](https://algospot.com/judge/problem/read/NUMBERGAME) |  |  |  |  |  |
+|  | 9장 | 블록 게임 | [BLOCKGAME](https://algospot.com/judge/problem/read/BLOCKGAME) |  |  |  |  |  |
+|  | 9장 | 회전초밥 | [SUSHI](https://algospot.com/judge/problem/read/SUSHI) |  |  |  |  |  |
+|  | 9장 | 지니어스 | [GENIUS](https://algospot.com/judge/problem/read/GENIUS) |  |  |  |  |  |
 |  | 10장 | 출전 순서 정하기 | MATCHORDER |  |  |  |  |  |
 |  | 10장 | 도시락 데우기 | LUNCHBOX |  |  |  |  |  |
 |  | 10장 | 문자열 합치기 | STRJOIN |  |  |  |  |  |
@@ -58,15 +58,15 @@
 |  | 15장 | 너드인가, 너드가 아닌가? | NERDS |  |  |  |  |  |
 |  | 16장 | 졸업 학기 | GRADUATION |  |  |  |  |  |
 |  | 17장 | 크리스마스 인형 | CHRISTMAS |  |  |  |  |  |
-| 6 | 18장 | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) |  |  |  |  |  |
-| 6 | 19장 | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) |  |  |  | &#10004; |  |
-| 6 | 19장 | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) |  |  |  |  |  |
+| 6 | 18장 | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) |&#10004;  | &#10004; | &#10004; |  | &#10004; |
+| 6 | 19장 | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) |&#10004;  | &#10004; | &#10004; | &#10004; | &#10004; |
+| 6 | 19장 | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) |&#10004;  | &#10004; | &#10004; |  | &#10004; |
 |  | 20장 | 작명하기 | NAMING |  |  |  |  |  |
 |  | 20장 | 팰린드롬 만들기 | PALINDROMIZE |  |  |  |  |  |
 |  | 20장 | 재하의 금고 | JAEHASAFE |  |  |  |  |  |
 |  | 20장 | 말버릇 | HABIT |  |  |  |  |  |
-|  | 21장 | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) |  |  |  |  |  |
-|  | 21장 | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) |  |  |  |  |  |
+|  | 21장 | 트리 순회 순서 변경 | TRAVERSAL|  |  |  |  |  |
+|  | 21장 | 요새 | FORTRESS |  |  |  |  |  |
 |  | 22장 | 너드인가, 너드가 아닌가? 2 | NERD2 |  |  |  |  |  |
 |  | 22장 | 삽입 정렬 뒤집기 | INSERTION |  |  |  |  |  |
 |  | 23장 | 변화하는 중간 값 | RUNNINGMEDIAN |  |  |  |  |  |

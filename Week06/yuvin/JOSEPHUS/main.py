@@ -1,4 +1,5 @@
 def transpose(a,n,k):
+<<<<<<< HEAD
     if a + k > n:
         return (a + k) % n + 1
     else:
@@ -12,14 +13,21 @@ def josephus(n: int, k: int):
         return transpose(a,n,k), transpose(b,n,k)
 
 res_list = [(1,2)]
+=======
+    return (a + k-2) % (n-1) + 2
+>>>>>>> 69460cbdeda3ffe01136efc46f50f11c4cc7c093
 
 test_case_num = int(input().strip())
 for i in range(test_case_num):
     n, k = tuple(map(int,input().strip().split(" ")))
+<<<<<<< HEAD
     res_list = [(1,2)]
+=======
+    res = (1,2)
+>>>>>>> 69460cbdeda3ffe01136efc46f50f11c4cc7c093
     for j in range(3,n+1):
-        res_list.append((transpose(res_list[-1][0],j,k),transpose(res_list[-1][1],j,k)))
-    res = res_list[-1]
+        res = (transpose(res[0],j,k),transpose(res[1],j,k))
+
     if res[0] < res[1]:
         print(*res)
     else:
