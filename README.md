@@ -1,7 +1,7 @@
 # 21-book-study
 
 ### 2021-05-17 ~ : 알고리즘 문제 해결 전략 ([온라인 저지](https://book.algospot.com/problems.html))
-| Week | 장 번호 | 문제 이름 | ID | elz | lgm | yks | yuv | luc | lfo |
+| Week | 번호 | 문제 이름 | ID | elz | lgm | yks | yuv | luc | lfo |
 |:---:|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | 1장 | 록 페스티벌 | [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL) | &#10004; | &#10004; | &#10004; |  | &#10004; |   |
 | 1 | 6장 | 보글 게임 | [BOGGLE](http://algospot.com/judge/problem/read/BOGGLE) | &#10004; | &#10004; | &#x23F3; |  | &#10004; |   |
