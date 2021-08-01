@@ -1,6 +1,17 @@
 # 21-book-study
 
-### 2021-05-17 ~ : 알고리즘 문제 해결 전략 ([온라인 저지](https://book.algospot.com/problems.html))
+## Usage
+#### To create a solution
+* `bash create_<language>.sh <dir>`
+  * e.g. `bash create_cpp.sh Week01/lucetre/FESTIVAL`
+* Write a solution in `main.cpp`
+#### To execute the solution
+* `bash run_<language>.sh <dir>`
+  * e.g. `bash run_cpp.sh Week01/lucetre/FESTIVAL`
+
+## Progress
+#### 2021-05-17 ~ : 알고리즘 문제 해결 전략 ([온라인 저지](https://book.algospot.com/problems.html))
+
 | Week | Chap | Problem | ID | elz | lgm | yks | yuv | luc | lfo |
 |:---:|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | <sub>1장</sub> | 록 페스티벌 | [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL) | &#10004; | &#10004; | &#10004; |  | &#10004; |   |
@@ -96,11 +107,3 @@
 |  | <sub>32장</sub> | 승부 조작 | MATCHFIX |  |  |  |  |  |   |
 |  | <sub>32장</sub> | 국책 사업 | 준비중입니다 |  |  |  |  |  |   |
 |  | <sub>32장</sub> | 함정 설치 | TRAPCARD |  |  |  |  |  |   |
-
-### How to Create a solution
-* `bash create.sh <dir>`
-  * e.g. `bash create.sh Week01/lucetre/FESTIVAL`
-* Write a solution in `main.cpp`
-### How to Execute the solution
-* `bash run.sh <dir>`
-  * e.g. `bash run.sh Week01/lucetre/FESTIVAL`
