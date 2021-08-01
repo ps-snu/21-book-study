@@ -8,8 +8,7 @@ void process() {
     vector<int> S, v;
     for (int i = n; i >= 1; i--) S.push_back(i);
     for (int i = n-1; i >= 0; i--) {
-        auto it = S.begin();
-        advance(it, a[i]);
+        auto it = S.begin() + a[i];
         v.push_back(*it);
         S.erase(it);
     }
