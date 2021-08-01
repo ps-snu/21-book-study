@@ -19,6 +19,7 @@ def is_right(brackets: str) -> bool:
         return True
     else:
         return False
+    
 test_case_num = int(input().strip())
 for i in range(test_case_num):
     brackets = input().strip()
