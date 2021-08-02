@@ -10,8 +10,8 @@ void process(pair<pii, pii> R) {
     pii R2 = R.second;
     if (R1.first > R1.second || R2.first > R2.second) return;
     
-    int root = in[R.first.first];
-    for (; pre[R2.second] != root; R2.second--);
+    int root = pre[R.first.first];
+    for (; in[R2.second] != root; R2.second--);
     R1 = make_pair(R1.first+1, R1.first+R2.second-R2.first);
     R2.second--;
     process(make_pair(R1, R2));
@@ -27,8 +27,8 @@ int main() {
     int T; cin >> T;
     for (int t = 0; t < T; t++) {
         cin >> n;
-        for (int i = 0; i < n; i++) cin >> in[i];
         for (int i = 0; i < n; i++) cin >> pre[i];
+        for (int i = 0; i < n; i++) cin >> in[i];
         process(make_pair(make_pair(0, n-1), make_pair(0, n-1)));
         cout << endl;
     }
