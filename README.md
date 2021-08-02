@@ -39,7 +39,7 @@
 | 5 | <sub>9장</sub> | 광학 문자 인식 | [OCR](https://algospot.com/judge/problem/read/OCR) | &#10004; | &#x23F3; | &#10004; | &#x23F3; | &#x1F4B8; |   |
 | 5 | <sub>9장</sub> | 모스 부호 사전 | [MORSE](https://algospot.com/judge/problem/read/MORSE) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; |   |
 | 5 | <sub>9장</sub> | k번째 최대 증가 부분 수열 | [KLIS](https://algospot.com/judge/problem/read/KLIS) | &#10004; | &#x23F3;  |  | &#10004; | &#10004; |   |
-| 5 | <sub>9장</sub> | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) | &#10004; |  | &#x23F3; |  | &#10004; |   |
+| 5 | <sub>9장</sub> | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) | &#10004; |  | &#x23F3; |  | &#10004; | &#10004;  |
 | 5 | <sub>9장</sub> | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) | &#10004; |  |  |  | &#x1F4B8; |   |
 |  | <sub>9장</sub> | 실험 데이터 복구하기 | [RESTORE](https://algospot.com/judge/problem/read/RESTORE) |  |  |  |  |  |   |
 |  | <sub>9장</sub> | 틱택토 | [TICTACTOE](https://algospot.com/judge/problem/read/TICTACTOE) |  |  |  |  |  |   |
