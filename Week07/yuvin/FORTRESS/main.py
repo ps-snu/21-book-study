@@ -32,6 +32,15 @@ class Fortress():
         self.inner_fortresses.add(new_fortress)
         return
 
+def print_fortress(f:Fortress):
+    print(f"x:{f.get_x()}, y:{f.get_y()}, r:{f.get_r()}")
+    if len(f.get_inner_fortresses()) != 0:
+        for sub_f in f.get_inner_fortresses():
+            print_fortress(sub_f)
+            print("")
+        
+        
+
 def get_longest_term(fortress: Fortress) -> int:
     if len(fortress.get_inner_fortresses()) == 0:
         return 0
@@ -40,7 +49,7 @@ def get_longest_term(fortress: Fortress) -> int:
         if len(longest_list) == 1:
             return longest_list[0] + 1
         else:
-            max(*longest_list) + 1 
+            return max(*longest_list) + 1 
     
 test_num = int(input().strip())
 for i in range(test_num):
@@ -53,7 +62,7 @@ for i in range(test_num):
         else:
             outer_fortress.add_inner_fortress(Fortress(x,y,r))
     distance_list = list(map(get_longest_term,outer_fortress.get_inner_fortresses()))
-    print(distance_list)
+    print_fortress(outer_fortress)
     longest_distance = 0
     for j in range(2):
         if len(distance_list) > 1:
@@ -61,5 +70,6 @@ for i in range(test_num):
             longest_distance += (max_distance + 1)
             distance_list.remove(max_distance)
         elif len(distance_list) == 1:
-            longest_distance += distance_list.pop(0)
+            longest_distance += (distance_list.pop(0) + 1)
+    print(longest_distance)
     
