@@ -1,0 +1,17 @@
+4
+4
+dog
+god
+dragon
+need
+3
+aa
+ab
+bb
+2
+ab
+cd
+3
+a
+aa
+aaa
