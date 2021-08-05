@@ -89,7 +89,7 @@
 |  | <sub>26장</sub> | 보안종결자 | NH |  |  |  |  |  |   |
 | 8 | <sub>28장</sub> | 고대어 사전 | [DICTIONARY](https://algospot.com/judge/problem/read/DICTIONARY) | &#10004; |  |  |  |  | &#10004;  |
 | 8 | <sub>28장</sub> | 단어 제한 끝말잇기 | [WORDCHAIN](https://algospot.com/judge/problem/read/WORDCHAIN) | &#10004; |  |  |  |  |  &#10004;  |
-| 8 | <sub>28장</sub> | 감시 카메라 설치 | [GALLERY](https://algospot.com/judge/problem/read/GALLERY) |&#10004;  |  |  |  |  |   |
+| 8 | <sub>28장</sub> | 감시 카메라 설치 | [GALLERY](https://algospot.com/judge/problem/read/GALLERY) |&#10004;  |  |  |  |  |  &#10004; |
 | 8 | <sub>28장</sub> | 회의실 배정 | [MEETINGROOM](https://algospot.com/judge/problem/read/MEETINGROOM) |  |  |  |  |  |   |
 |  | <sub>29장</sub> | Sorting Game | SORTGAME |  |  |  |  |  |   |
 |  | <sub>29장</sub> | 어린이날 | CHILDRENDAY |  |  |  |  |  |   |
