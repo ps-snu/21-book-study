@@ -87,7 +87,7 @@ void solve2SAT() {
             return;
         }
     
-    vector<bool> value(N * 2, -1);
+    vector<bool> value(N * 2, false);
     vector<pair<int, int>> order;
 
     for (int i = 0; i < N * 2; i++)
@@ -113,6 +113,7 @@ int main() {
         for (int i = 0; i < N; i++)
             cin >> a[i] >> b[i] >> c[i] >> d[i];
 
+        setAdj();
         solve2SAT();
     }
 }
