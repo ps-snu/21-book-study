@@ -76,8 +76,8 @@
 |  | <sub>20장</sub> | 팰린드롬 만들기 | PALINDROMIZE |  |  |  |  |  |   |
 |  | <sub>20장</sub> | 재하의 금고 | JAEHASAFE |  |  |  |  |  |   |
 |  | <sub>20장</sub> | 말버릇 | HABIT |  |  |  |  |  |   |
-| 7 | <sub>21장</sub> | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) |&#10004;  | &#10004; | &#10004; |  | &#10004; |   |
-| 7 | <sub>21장</sub> | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) |&#10004;  | &#10004; | &#10004; |  | &#10004; |   |
+| 7 | <sub>21장</sub> | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) |&#10004;  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
+| 7 | <sub>21장</sub> | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) |&#10004;  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
 | 7 | <sub>22장</sub> | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) |&#10004;  | &#10004; | &#10004; |  | &#10004; |   |
 | 7 | <sub>22장</sub> | 삽입 정렬 뒤집기 | [INSERTION](https://algospot.com/judge/problem/read/INSERTION) |&#10004;  | &#10004; | &#10004; |  | &#10004; |   |
 | 7 | <sub>23장</sub> | 변화하는 중간 값 | [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN) |&#10004;  | &#10004; | &#10004; |  | &#10004; |   |
