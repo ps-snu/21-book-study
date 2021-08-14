@@ -93,7 +93,7 @@
 | 8 | <sub>28장</sub> | 회의실 배정 | [MEETINGROOM](https://algospot.com/judge/problem/read/MEETINGROOM) | &#10004; |  |  |  |  |   |
 | 9 | <sub>29장</sub> | Sorting Game | [SORTGAME](https://algospot.com/judge/problem/read/SORTGAME) |  |  |  |  |  |   |
 | 9 | <sub>29장</sub> | 어린이날 | [CHILDRENDAY](https://algospot.com/judge/problem/read/CHILDRENDAY) |  |  |  |  |  |   |
-| 9 | <sub>29장</sub> | 하노이의 탑 | [HANOI4B](https://algospot.com/judge/problem/read/HANOI4B) |  |  |  |  |  |   |
+| 9 | <sub>29장</sub> | 하노이의 탑 | ~~HANOI4B~~[HANOI4](https://algospot.com/judge/problem/read/HANOI4) |  |  |  |  |  |   |
 |  | <sub>30장</sub> | 신호 라우팅 | ROUTING |  |  |  |  |  |   |
 |  | <sub>30장</sub> | 소방차 | FIRETRUCKS |  |  |  |  |  |   |
 |  | <sub>30장</sub> | 철인 N종 경기 | NTHLON |  |  |  |  |  |   |
