@@ -2,7 +2,7 @@
 using namespace std;
 
 int C, N, n, num;
-map<int, int> steps;
+int steps[1 << 24];
 
 int getState(int state, int no) {
     return (state >> (2 * no)) & 3;
@@ -41,7 +41,7 @@ int inc(int x) { return x < 0 ? x - 1 : x + 1; }
 int bfs(int init, int final) {
     if (init == final) return 0;
     queue<int> q;
-    steps.clear();
+    memset(steps, 0, sizeof(steps));
     
     q.push(init);
     q.push(final);
@@ -56,10 +56,10 @@ int bfs(int init, int final) {
         for (int i = 0; i < adj.size(); i++) {
             int v = adj[i];
 
-            if (steps.count(v) == 0) {
+            if (steps[v] == 0) {
                 steps[v] = inc(steps[u]);
                 q.push(v);
-            } else if (sgn(steps[u]) != sgn(steps[v])) {
+            } else if (sgn(steps[u]) * sgn(steps[v]) < 0) {
                 return abs(steps[u]) + abs(steps[v]) - 1;
             }
         }
