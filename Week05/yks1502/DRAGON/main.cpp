@@ -1,32 +1,48 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define maxP 1000000050
 
-int n, p, l;
-string dc[50][2];
+const int MAX_P = 1000000050;
+int c, n, p, l;
+int a[50], maxGen;
+string dc0 = "FX";
+string dc1 = "FX+YF";
+string dc2 = "FX+YF+FX-YF";
 
-void calcDc() {
-    dc[0][0] = "FX";
-    dc[0][1] = "";
-    dc[1][0] = "FX+YF";
-    dc[1][1] = "YF";
-
-    for (int i = 1; i <= 50; i++) {
-        if (dc[i][0].size() > maxP) break;
-
-        dc[i + 1][0] = dc[i][0] + "+";
-        dc[i + 1][1] = dc[i - 1][0] + "-" + dc[i][1];
-        dc[i + 1][0] += dc[i + 1][1];
+void preCalc() {
+    a[0] = 2;
+    for (int i = 1; i < 50; i++) {
+        a[i] = 2 * a[i - 1] + 1;
+        
+        if (a[i] > MAX_P) {
+            maxGen = i;
+            return;
+        }
     }
 }
 
-int main() {
-    int c;
-    cin >> c;
+char getCurve(int gen, int idx) {
+    if (gen == 0) return dc0[idx];
+    if (gen == 1) return dc1[idx];
+    if (gen == 2) return dc2[idx];
+    if (gen > maxGen) return getCurve(maxGen, idx);
 
-    calcDc();
-    for (int i = 0; i < c; i++) {
+    if (idx == a[gen - 1]) return '+';
+    if (idx < a[gen - 1]) return getCurve(gen - 1, idx);
+    if (idx - (a[gen - 1] + 1) == a[gen - 2]) return '-';
+    return getCurve(gen - 1, idx - (a[gen - 1] + 1));
+}
+
+int main() {
+    cin >> c;
+    preCalc();
+
+    for (int tc = 0; tc < c; tc++) {
         cin >> n >> p >> l;
-        cout << dc[29][0].substr(p - 1, l) << endl;
+
+        for (int i = 0; i < l; i++) {
+            cout << getCurve(n, p - 1 + i);
+        }
+
+        cout << endl;
     }
 }
