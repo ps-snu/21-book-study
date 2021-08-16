@@ -22,25 +22,6 @@ vector<int> getTop(int state) {
     return res;
 }
 
-// move i -> j stick
-vector<int> move(int state) {
-    vector<int> res;
-    vector<int> top = getTop(state);
-
-    for(int i = 0; i < 4; i++) {
-        if(top[i] == -1) continue;
-        for(int j = 0; j < 4; j++) {
-            if(i == j) continue;
-            if(top[i] < top[j] || top[j] == -1) {
-                int new_state;
-                new_state = (state & ~(3 << (top[i]*2))) | (j << (top[i]*2));
-                res.push_back(new_state);
-            }
-        }
-    }
-    return res;
-}
-
 int sign(int x) {
     return x > 0 ? 1 : -1;
 }
@@ -62,15 +43,24 @@ int solve() {
 
     while(!q.empty()) {
         int here = q.front(); q.pop();
-        
-        vector<int> res = move(here);
-        for(auto state : res) {
-            if(discovered[state] == 0) {
-                discovered[state] = discovered[here] > 0 ? discovered[here]+1 : discovered[here]-1;
-                q.push(state);
+
+        vector<int> top = getTop(here);
+
+        for(int i = 0; i < 4; i++) {
+            if(top[i] == -1) continue;
+            for(int j = 0; j < 4; j++) {
+                if(i == j) continue;
+                if(top[i] < top[j] || top[j] == -1) {
+                    int new_state;
+                    new_state = (here & ~(3 << (top[i]*2))) | (j << (top[i]*2));
+                    if(discovered[new_state] == 0) {
+                        discovered[new_state] = discovered[here] > 0 ? discovered[here]+1 : discovered[here]-1;
+                        q.push(new_state);
+                    }
+                    else if(sign(discovered[new_state]) * sign(discovered[here]) < 0) 
+                        return abs(discovered[new_state]) + abs(discovered[here]) - 1;
+                }
             }
-            else if(sign(discovered[state]) * sign(discovered[here]) < 0) 
-                return abs(discovered[state]) + abs(discovered[here]) - 1;
         }
     }
     return -1;
