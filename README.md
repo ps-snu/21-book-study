@@ -38,8 +38,8 @@
 | 5 | <sub>9장</sub> | 여행 짐 싸기 | [PACKING](https://algospot.com/judge/problem/read/PACKING) | &#10004;  | &#x23F3; | &#10004; | &#x23F3; | &#10004; |   |
 | 5 | <sub>9장</sub> | 광학 문자 인식 | [OCR](https://algospot.com/judge/problem/read/OCR) | &#10004; | &#x23F3; | &#10004; | &#x23F3; | &#x1F4B8; |   |
 | 5 | <sub>9장</sub> | 모스 부호 사전 | [MORSE](https://algospot.com/judge/problem/read/MORSE) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; |   |
-| 5 | <sub>9장</sub> | k번째 최대 증가 부분 수열 | [KLIS](https://algospot.com/judge/problem/read/KLIS) | &#10004; | &#x23F3;  |  | &#10004; | &#10004; |   |
-| 5 | <sub>9장</sub> | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) | &#10004; |  | &#x23F3; |  | &#10004; | &#10004;  |
+| 5 | <sub>9장</sub> | k번째 최대 증가 부분 수열 | [KLIS](https://algospot.com/judge/problem/read/KLIS) | &#10004; | &#x23F3;  | &#10004; | &#10004; | &#10004; |   |
+| 5 | <sub>9장</sub> | 드래곤 커브 | [DRAGON](https://algospot.com/judge/problem/read/DRAGON) | &#10004; |  | &#10004; |  | &#10004; | &#10004;  |
 | 5 | <sub>9장</sub> | 웨브바짐 | [ZIMBABWE](https://algospot.com/judge/problem/read/ZIMBABWE) | &#10004; |  |  |  | &#x1F4B8; |   |
 |  | <sub>9장</sub> | 실험 데이터 복구하기 | [RESTORE](https://algospot.com/judge/problem/read/RESTORE) |  |  |  |  |  |   |
 |  | <sub>9장</sub> | 틱택토 | [TICTACTOE](https://algospot.com/judge/problem/read/TICTACTOE) |  |  |  |  |  |   |
@@ -69,9 +69,9 @@
 |  | <sub>15장</sub> | 너드인가, 너드가 아닌가? | NERDS |  |  |  |  |  |   |
 |  | <sub>16장</sub> | 졸업 학기 | GRADUATION |  |  |  |  |  |   |
 |  | <sub>17장</sub> | 크리스마스 인형 | CHRISTMAS |  |  |  |  |  |   |
-| 6 | <sub>18장</sub> | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) |&#10004;  | &#10004; | &#10004; |  | &#10004; |   |
-| 6 | <sub>19장</sub> | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) |&#10004;  | &#10004; | &#10004; | &#10004; | &#10004; |   |
-| 6 | <sub>19장</sub> | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) |&#10004;  | &#10004; | &#10004; |  | &#10004; |   |
+| 6 | <sub>18장</sub> | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) | &#10004; | &#10004; | &#10004; |  | &#10004; |   |
+| 6 | <sub>19장</sub> | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; |   |
+| 6 | <sub>19장</sub> | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) | &#10004; | &#10004; | &#10004; |  | &#10004; |   |
 |  | <sub>20장</sub> | 작명하기 | NAMING |  |  |  |  |  |   |
 |  | <sub>20장</sub> | 팰린드롬 만들기 | PALINDROMIZE |  |  |  |  |  |   |
 |  | <sub>20장</sub> | 재하의 금고 | JAEHASAFE |  |  |  |  |  |   |
@@ -94,9 +94,9 @@
 | 9 | <sub>29장</sub> | Sorting Game | [SORTGAME](https://algospot.com/judge/problem/read/SORTGAME) | &#10004; | &#10004; | &#10004; |  | &#10004; |  &#10004; |
 | 9 | <sub>29장</sub> | 어린이날 | [CHILDRENDAY](https://algospot.com/judge/problem/read/CHILDRENDAY) |  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
 | 9 | <sub>29장</sub> | 하노이의 탑 | ~~HANOI4B~~[HANOI4](https://algospot.com/judge/problem/read/HANOI4) |  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-|  | <sub>30장</sub> | 신호 라우팅 | ROUTING |  |  |  |  |  |   |
-|  | <sub>30장</sub> | 소방차 | FIRETRUCKS |  |  |  |  |  |   |
-|  | <sub>30장</sub> | 철인 N종 경기 | NTHLON |  |  |  |  |  |   |
+| 10 | <sub>30장</sub> | 신호 라우팅 | [ROUTING](https://algospot.com/judge/problem/read/ROUTING) |  |  |  |  |  |   |
+| 10 | <sub>30장</sub> | 소방차 | [FIRETRUCKS](https://algospot.com/judge/problem/read/FIRETRUCKS) |  |  |  |  |  |   |
+| 10 | <sub>30장</sub> | 철인 N종 경기 | [NTHLON](https://algospot.com/judge/problem/read/NTHLON) |  |  |  |  |  |   |
 |  | <sub>30장</sub> | 시간여행 | TIMETRIP |  |  |  |  |  |   |
 |  | <sub>30장</sub> | 음주 운전 단속 | DRUNKEN |  |  |  |  |  |   |
 |  | <sub>30장</sub> | 선거 공약 | PROMISES |  |  |  |  |  |   |
