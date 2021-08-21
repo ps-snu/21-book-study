@@ -1,26 +1,23 @@
-import heapq
+import heapq, sys 
 
-test_num = int(input().strip())
-for _ in range(test_num):
-	ad_dict = dict()
-	com_num, line_num = tuple(map(int,input().strip().split(" ")))
-	dist_dict = {i:float("inf") for i in range(com_num)}
-	priority_q = []
+for _ in range(int(sys.stdin.readline().strip())):
+	com_num, line_num = tuple(map(int,sys.stdin.readline().strip().split(" ")))
+	noise_dict = [1,] + [float("inf"),] * (com_num - 1)
+	priority_q = [(1,0)]
+	ad_dict = [[] for _ in range(com_num)]
 	for _ in range(line_num):
-		com1, com2, noise = tuple(input().strip().split(" "))
+		com1, com2, noise = tuple(sys.stdin.readline().strip().split(" "))
 		com1, com2, noise = int(com1), int(com2), float(noise)
-		if com1 in ad_dict:
-			ad_dict[com1].append((com2,noise))
-		else:
-			ad_dict[com1] = [(com2,noise)]
-		if com2 in ad_dict:
-			ad_dict[com2].append((com1,noise))
-		else:
-			ad_dict[com2] = [(com1,noise)]
-	
-	for com_tup in ad_dict[0]:
-		com, noise = com_tup
-		dist_dict[com] = noise
+		ad_dict[com1].append((noise, com2))
+		ad_dict[com2].append((noise, com1))
 
-	while 
+	while priority_q:
+		noise, com = heapq.heappop(priority_q)
+		
+		for com_tup in ad_dict[com]:
+			noise_prod = com_tup[0] * noise
+			if noise_dict[com_tup[1]] > noise_prod:
+				noise_dict[com_tup[1]] = noise_prod	
+				heapq.heappush(priority_q, (noise_prod, com_tup[1]))
+	print(noise_dict[-1])
 			
