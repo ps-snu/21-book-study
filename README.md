@@ -69,9 +69,9 @@
 |  | <sub>15장</sub> | 너드인가, 너드가 아닌가? | NERDS |  |  |  |  |  |   |
 |  | <sub>16장</sub> | 졸업 학기 | GRADUATION |  |  |  |  |  |   |
 |  | <sub>17장</sub> | 크리스마스 인형 | CHRISTMAS |  |  |  |  |  |   |
-| 6 | <sub>18장</sub> | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) | &#10004; | &#10004; | &#10004; |  | &#10004; |   |
-| 6 | <sub>19장</sub> | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; |   |
-| 6 | <sub>19장</sub> | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) | &#10004; | &#10004; | &#10004; |  | &#10004; |   |
+| 6 | <sub>18장</sub> | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
+| 6 | <sub>19장</sub> | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; | &#10004;  |
+| 6 | <sub>19장</sub> | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
 |  | <sub>20장</sub> | 작명하기 | NAMING |  |  |  |  |  |   |
 |  | <sub>20장</sub> | 팰린드롬 만들기 | PALINDROMIZE |  |  |  |  |  |   |
 |  | <sub>20장</sub> | 재하의 금고 | JAEHASAFE |  |  |  |  |  |   |
