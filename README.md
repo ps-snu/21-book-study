@@ -93,10 +93,10 @@
 | 8 | <sub>28장</sub> | 회의실 배정 | [MEETINGROOM](https://algospot.com/judge/problem/read/MEETINGROOM) | &#10004; |  |  |  | &#x1F4B8; |   |
 | 9 | <sub>29장</sub> | Sorting Game | [SORTGAME](https://algospot.com/judge/problem/read/SORTGAME) | &#10004; | &#10004; | &#10004; |  | &#10004; |  &#10004; |
 | 9 | <sub>29장</sub> | 어린이날 | [CHILDRENDAY](https://algospot.com/judge/problem/read/CHILDRENDAY) |  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 9 | <sub>29장</sub> | 하노이의 탑 | ~~HANOI4B~~[HANOI4](https://algospot.com/judge/problem/read/HANOI4) |  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 10 | <sub>30장</sub> | 신호 라우팅 | [ROUTING](https://algospot.com/judge/problem/read/ROUTING) |  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 10 | <sub>30장</sub> | 소방차 | [FIRETRUCKS](https://algospot.com/judge/problem/read/FIRETRUCKS) |  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 10 | <sub>30장</sub> | 철인 N종 경기 | [NTHLON](https://algospot.com/judge/problem/read/NTHLON) |  | &#10004; | &#10004; |  | &#10004; |  &#10004; |
+| 9 | <sub>29장</sub> | 하노이의 탑 | [HANOI4](https://algospot.com/judge/problem/read/HANOI4) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
+| 10 | <sub>30장</sub> | 신호 라우팅 | [ROUTING](https://algospot.com/judge/problem/read/ROUTING) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
+| 10 | <sub>30장</sub> | 소방차 | [FIRETRUCKS](https://algospot.com/judge/problem/read/FIRETRUCKS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
+| 10 | <sub>30장</sub> | 철인 N종 경기 | [NTHLON](https://algospot.com/judge/problem/read/NTHLON) | &#10004; | &#10004; | &#10004; |  | &#10004; |  &#10004; |
 |  | <sub>30장</sub> | 시간여행 | TIMETRIP |  |  |  |  |  |   |
 |  | <sub>30장</sub> | 음주 운전 단속 | DRUNKEN |  |  |  |  |  |   |
 |  | <sub>30장</sub> | 선거 공약 | PROMISES |  |  |  |  |  |   |
