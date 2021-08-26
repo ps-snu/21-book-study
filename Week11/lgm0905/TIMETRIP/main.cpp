@@ -55,7 +55,6 @@ string bellmanFord() {
     // unreached
     if(upper[1] == 87654321 || (!findPath())) return "UNREACHABLE";
     
-
     // else case
     string ret = "";
     ret += upper_updated ? "INFINITY" : to_string(upper[1]);
