@@ -92,16 +92,6 @@
 | 8 | <sub>28장</sub> | 감시 카메라 설치 | [GALLERY](https://algospot.com/judge/problem/read/GALLERY) | &#10004; | &#10004; | &#10004; |  | &#x1F4B8; |  &#10004; |
 | 8 | <sub>28장</sub> | 회의실 배정 | [MEETINGROOM](https://algospot.com/judge/problem/read/MEETINGROOM) | &#10004; |  |  |  | &#x1F4B8; |  |
 | 9 | <sub>29장</sub> | Sorting Game | [SORTGAME](https://algospot.com/judge/problem/read/SORTGAME) | &#10004; | &#10004; | &#10004; |  | &#10004; |  &#10004; |
-<<<<<<< HEAD
-| 9 | <sub>29장</sub> | 어린이날 | [CHILDRENDAY](https://algospot.com/judge/problem/read/CHILDRENDAY) |  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 9 | <sub>29장</sub> | 하노이의 탑 | ~~HANOI4B~~[HANOI4](https://algospot.com/judge/problem/read/HANOI4) |  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 10 | <sub>30장</sub> | 신호 라우팅 | [ROUTING](https://algospot.com/judge/problem/read/ROUTING) |  | &#10004; |  | &#x23F3; | &#10004; | &#10004;  |
-| 10 | <sub>30장</sub> | 소방차 | [FIRETRUCKS](https://algospot.com/judge/problem/read/FIRETRUCKS) |  | &#10004; |  | &#10004; | &#10004; | &#10004;  |
-| 10 | <sub>30장</sub> | 철인 N종 경기 | [NTHLON](https://algospot.com/judge/problem/read/NTHLON) |  | &#10004; |  |  | &#10004; |  &#10004; |
-|  | <sub>30장</sub> | 시간여행 | TIMETRIP |  |  |  |  |  |   |
-|  | <sub>30장</sub> | 음주 운전 단속 | DRUNKEN |  |  |  |  |  |   |
-|  | <sub>30장</sub> | 선거 공약 | PROMISES |  |  |  |  |  |   |
-=======
 | 9 | <sub>29장</sub> | 어린이날 | [CHILDRENDAY](https://algospot.com/judge/problem/read/CHILDRENDAY) |  | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 9 | <sub>29장</sub> | 하노이의 탑 | [HANOI4](https://algospot.com/judge/problem/read/HANOI4) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 10 | <sub>30장</sub> | 신호 라우팅 | [ROUTING](https://algospot.com/judge/problem/read/ROUTING) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
@@ -110,7 +100,6 @@
 | 11 | <sub>30장</sub> | 시간여행 | [TIMETRIP](https://algospot.com/judge/problem/read/TIMETRIP) | &#10004; | &#10004; |  |  |  | &#10004; |
 | 11 | <sub>30장</sub> | 음주 운전 단속 | [DRUNKEN](https://algospot.com/judge/problem/read/DRUNKEN) | &#10004; | &#10004; |  |  |  | &#10004; |
 | 11 | <sub>30장</sub> | 선거 공약 | [PROMISES](https://algospot.com/judge/problem/read/PROMISES) | &#10004; | &#10004; |  |  |  | &#10004; |
->>>>>>> cdaf2c5e50600aa4113f823f22bcd07c7d531f39
 |  | <sub>31장</sub> | 근거리 네트워크 | LAN |  |  |  |  |  |   |
 |  | <sub>31장</sub> | 여행 경로 정하기 | TPATH |  |  |  |  |  |   |
 |  | <sub>32장</sub> | 마일리지로 여행하기 | 준비중입니다 |  |  |  |  |  |   |
