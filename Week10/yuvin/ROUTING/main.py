@@ -13,7 +13,9 @@ for _ in range(int(sys.stdin.readline().strip())):
 
 	while priority_q:
 		noise, com = heapq.heappop(priority_q)
-		
+		if noise_dict[com] < noise:
+			continue
+
 		for com_tup in ad_dict[com]:
 			noise_prod = com_tup[0] * noise
 			if noise_dict[com_tup[1]] > noise_prod:
