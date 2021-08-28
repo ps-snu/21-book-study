@@ -69,29 +69,30 @@
 |  | <sub>15장</sub> | 너드인가, 너드가 아닌가? | NERDS |  |  |  |  |  |   |
 |  | <sub>16장</sub> | 졸업 학기 | GRADUATION |  |  |  |  |  |   |
 |  | <sub>17장</sub> | 크리스마스 인형 | CHRISTMAS |  |  |  |  |  |   |
-| 6 | <sub>18장</sub> | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 6 | <sub>19장</sub> | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; | &#10004;  |
+| 6 | <sub>18장</sub> | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
+| 6 | <sub>19장</sub> | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; |
 | 6 | <sub>19장</sub> | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
 |  | <sub>20장</sub> | 작명하기 | NAMING |  |  |  |  |  |   |
 |  | <sub>20장</sub> | 팰린드롬 만들기 | PALINDROMIZE |  |  |  |  |  |   |
 |  | <sub>20장</sub> | 재하의 금고 | JAEHASAFE |  |  |  |  |  |   |
 |  | <sub>20장</sub> | 말버릇 | HABIT |  |  |  |  |  |   |
-| 7 | <sub>21장</sub> | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) |&#10004;  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 7 | <sub>21장</sub> | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) |&#10004;  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 7 | <sub>22장</sub> | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) |&#10004;  | &#10004; | &#10004; |  | &#10004; |   |
-| 7 | <sub>22장</sub> | 삽입 정렬 뒤집기 | [INSERTION](https://algospot.com/judge/problem/read/INSERTION) |&#10004;  | &#10004; | &#10004; |  | &#10004; |   |
-| 7 | <sub>23장</sub> | 변화하는 중간 값 | [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN) |&#10004;  | &#10004; | &#10004; |  | &#10004; |   |
+| 7 | <sub>21장</sub> | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) | &#10004;  | &#10004; | &#10004; |  | &#10004; | &#10004; |
+| 7 | <sub>21장</sub> | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
+| 7 | <sub>22장</sub> | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) | &#10004; | &#10004; | &#10004; |  | &#10004; |  |
+| 7 | <sub>22장</sub> | 삽입 정렬 뒤집기 | [INSERTION](https://algospot.com/judge/problem/read/INSERTION) | &#10004; | &#10004; | &#10004; |  | &#10004; |  |
+| 7 | <sub>23장</sub> | 변화하는 중간 값 | [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN) | &#10004; | &#10004; | &#10004; |  | &#10004; |  |
 |  | <sub>24장</sub> | 등산로 | MORDOR |  |  |  |  |  |   |
 |  | <sub>24장</sub> | 족보 탐험 | FAMILYTREE |  |  |  |  |  |   |
 |  | <sub>24장</sub> | 삽입 정렬 시간 재기 | MEASURETIME |  |  |  |  |  |   |
 |  | <sub>25장</sub> | 에디터 전쟁 | EDITORWARS |  |  |  |  |  |   |
 |  | <sub>26장</sub> | 안녕히, 그리고 물고기는 고마웠어요! | SOLONG |  |  |  |  |  |   |
 |  | <sub>26장</sub> | 보안종결자 | NH |  |  |  |  |  |   |
-| 8 | <sub>28장</sub> | 고대어 사전 | [DICTIONARY](https://algospot.com/judge/problem/read/DICTIONARY) | &#10004; | &#10004; | &#10004; |  | &#x1F4B8; | &#10004;  |
-| 8 | <sub>28장</sub> | 단어 제한 끝말잇기 | [WORDCHAIN](https://algospot.com/judge/problem/read/WORDCHAIN) | &#10004; | &#10004; | &#10004; |  | &#x1F4B8; |  &#10004;  |
-| 8 | <sub>28장</sub> | 감시 카메라 설치 | [GALLERY](https://algospot.com/judge/problem/read/GALLERY) |&#10004;  | &#10004; | &#10004; |  | &#x1F4B8; |  &#10004; |
-| 8 | <sub>28장</sub> | 회의실 배정 | [MEETINGROOM](https://algospot.com/judge/problem/read/MEETINGROOM) | &#10004; |  |  |  | &#x1F4B8; |   |
+| 8 | <sub>28장</sub> | 고대어 사전 | [DICTIONARY](https://algospot.com/judge/problem/read/DICTIONARY) | &#10004; | &#10004; | &#10004; |  | &#x1F4B8; | &#10004; |
+| 8 | <sub>28장</sub> | 단어 제한 끝말잇기 | [WORDCHAIN](https://algospot.com/judge/problem/read/WORDCHAIN) | &#10004; | &#10004; | &#10004; |  | &#x1F4B8; | &#10004; |
+| 8 | <sub>28장</sub> | 감시 카메라 설치 | [GALLERY](https://algospot.com/judge/problem/read/GALLERY) | &#10004; | &#10004; | &#10004; |  | &#x1F4B8; |  &#10004; |
+| 8 | <sub>28장</sub> | 회의실 배정 | [MEETINGROOM](https://algospot.com/judge/problem/read/MEETINGROOM) | &#10004; |  |  |  | &#x1F4B8; |  |
 | 9 | <sub>29장</sub> | Sorting Game | [SORTGAME](https://algospot.com/judge/problem/read/SORTGAME) | &#10004; | &#10004; | &#10004; |  | &#10004; |  &#10004; |
+<<<<<<< HEAD
 | 9 | <sub>29장</sub> | 어린이날 | [CHILDRENDAY](https://algospot.com/judge/problem/read/CHILDRENDAY) |  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
 | 9 | <sub>29장</sub> | 하노이의 탑 | ~~HANOI4B~~[HANOI4](https://algospot.com/judge/problem/read/HANOI4) |  | &#10004; | &#10004; |  | &#10004; | &#10004;  |
 | 10 | <sub>30장</sub> | 신호 라우팅 | [ROUTING](https://algospot.com/judge/problem/read/ROUTING) |  | &#10004; |  | &#x23F3; | &#10004; | &#10004;  |
@@ -100,6 +101,16 @@
 |  | <sub>30장</sub> | 시간여행 | TIMETRIP |  |  |  |  |  |   |
 |  | <sub>30장</sub> | 음주 운전 단속 | DRUNKEN |  |  |  |  |  |   |
 |  | <sub>30장</sub> | 선거 공약 | PROMISES |  |  |  |  |  |   |
+=======
+| 9 | <sub>29장</sub> | 어린이날 | [CHILDRENDAY](https://algospot.com/judge/problem/read/CHILDRENDAY) |  | &#10004; | &#10004; |  | &#10004; | &#10004; |
+| 9 | <sub>29장</sub> | 하노이의 탑 | [HANOI4](https://algospot.com/judge/problem/read/HANOI4) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
+| 10 | <sub>30장</sub> | 신호 라우팅 | [ROUTING](https://algospot.com/judge/problem/read/ROUTING) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
+| 10 | <sub>30장</sub> | 소방차 | [FIRETRUCKS](https://algospot.com/judge/problem/read/FIRETRUCKS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
+| 10 | <sub>30장</sub> | 철인 N종 경기 | [NTHLON](https://algospot.com/judge/problem/read/NTHLON) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
+| 11 | <sub>30장</sub> | 시간여행 | [TIMETRIP](https://algospot.com/judge/problem/read/TIMETRIP) | &#10004; | &#10004; |  |  |  | &#10004; |
+| 11 | <sub>30장</sub> | 음주 운전 단속 | [DRUNKEN](https://algospot.com/judge/problem/read/DRUNKEN) | &#10004; | &#10004; |  |  |  | &#10004; |
+| 11 | <sub>30장</sub> | 선거 공약 | [PROMISES](https://algospot.com/judge/problem/read/PROMISES) | &#10004; | &#10004; |  |  |  | &#10004; |
+>>>>>>> cdaf2c5e50600aa4113f823f22bcd07c7d531f39
 |  | <sub>31장</sub> | 근거리 네트워크 | LAN |  |  |  |  |  |   |
 |  | <sub>31장</sub> | 여행 경로 정하기 | TPATH |  |  |  |  |  |   |
 |  | <sub>32장</sub> | 마일리지로 여행하기 | 준비중입니다 |  |  |  |  |  |   |
