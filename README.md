@@ -78,9 +78,9 @@
 |  | <sub>20장</sub> | 말버릇 | HABIT |  |  |  |  |  |   |
 | 7 | <sub>21장</sub> | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) | &#10004;  | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 7 | <sub>21장</sub> | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 7 | <sub>22장</sub> | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) | &#10004; | &#10004; | &#10004; |  | &#10004; |  |
-| 7 | <sub>22장</sub> | 삽입 정렬 뒤집기 | [INSERTION](https://algospot.com/judge/problem/read/INSERTION) | &#10004; | &#10004; | &#10004; |  | &#10004; |  |
-| 7 | <sub>23장</sub> | 변화하는 중간 값 | [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN) | &#10004; | &#10004; | &#10004; |  | &#10004; |  |
+| 7 | <sub>22장</sub> | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) | &#10004; | &#10004; | &#10004; |  | &#10004; |&#10004;  |
+| 7 | <sub>22장</sub> | 삽입 정렬 뒤집기 | [INSERTION](https://algospot.com/judge/problem/read/INSERTION) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
+| 7 | <sub>23장</sub> | 변화하는 중간 값 | [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
 |  | <sub>24장</sub> | 등산로 | MORDOR |  |  |  |  |  |   |
 |  | <sub>24장</sub> | 족보 탐험 | FAMILYTREE |  |  |  |  |  |   |
 |  | <sub>24장</sub> | 삽입 정렬 시간 재기 | MEASURETIME |  |  |  |  |  |   |
