@@ -78,9 +78,9 @@
 |  | <sub>20장</sub> | 말버릇 | HABIT |  |  |  |  |  |   |
 | 7 | <sub>21장</sub> | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) | &#10004;  | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 7 | <sub>21장</sub> | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 7 | <sub>22장</sub> | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) | &#10004; | &#10004; | &#10004; |  | &#10004; |  |
-| 7 | <sub>22장</sub> | 삽입 정렬 뒤집기 | [INSERTION](https://algospot.com/judge/problem/read/INSERTION) | &#10004; | &#10004; | &#10004; |  | &#10004; |  |
-| 7 | <sub>23장</sub> | 변화하는 중간 값 | [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN) | &#10004; | &#10004; | &#10004; |  | &#10004; |  |
+| 7 | <sub>22장</sub> | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) | &#10004; | &#10004; | &#10004; |  | &#10004; |&#10004;  |
+| 7 | <sub>22장</sub> | 삽입 정렬 뒤집기 | [INSERTION](https://algospot.com/judge/problem/read/INSERTION) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
+| 7 | <sub>23장</sub> | 변화하는 중간 값 | [RUNNINGMEDIAN](https://algospot.com/judge/problem/read/RUNNINGMEDIAN) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
 |  | <sub>24장</sub> | 등산로 | MORDOR |  |  |  |  |  |   |
 |  | <sub>24장</sub> | 족보 탐험 | FAMILYTREE |  |  |  |  |  |   |
 |  | <sub>24장</sub> | 삽입 정렬 시간 재기 | MEASURETIME |  |  |  |  |  |   |
@@ -97,13 +97,13 @@
 | 10 | <sub>30장</sub> | 신호 라우팅 | [ROUTING](https://algospot.com/judge/problem/read/ROUTING) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 10 | <sub>30장</sub> | 소방차 | [FIRETRUCKS](https://algospot.com/judge/problem/read/FIRETRUCKS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 10 | <sub>30장</sub> | 철인 N종 경기 | [NTHLON](https://algospot.com/judge/problem/read/NTHLON) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
-| 11 | <sub>30장</sub> | 시간여행 | [TIMETRIP](https://algospot.com/judge/problem/read/TIMETRIP) | &#10004; | &#10004; |  |  |  | &#10004; |
-| 11 | <sub>30장</sub> | 음주 운전 단속 | [DRUNKEN](https://algospot.com/judge/problem/read/DRUNKEN) | &#10004; | &#10004; |  |  |  | &#10004; |
-| 11 | <sub>30장</sub> | 선거 공약 | [PROMISES](https://algospot.com/judge/problem/read/PROMISES) | &#10004; | &#10004; |  |  |  | &#10004; |
-|  | <sub>31장</sub> | 근거리 네트워크 | LAN |  |  |  |  |  |   |
-|  | <sub>31장</sub> | 여행 경로 정하기 | TPATH |  |  |  |  |  |   |
+| 11 | <sub>30장</sub> | 시간여행 | [TIMETRIP](https://algospot.com/judge/problem/read/TIMETRIP) | &#10004; | &#10004; | &#10004; |  |  | &#10004; |
+| 11 | <sub>30장</sub> | 음주 운전 단속 | [DRUNKEN](https://algospot.com/judge/problem/read/DRUNKEN) | &#10004; | &#10004; | &#10004; |  |  | &#10004; |
+| 11 | <sub>30장</sub> | 선거 공약 | [PROMISES](https://algospot.com/judge/problem/read/PROMISES) | &#10004; | &#10004; | &#10004; |  |  | &#10004; |
+|  | <sub>31장</sub> | 근거리 네트워크 | [LAN](https://algospot.com/judge/problem/read/LAN) |  |  |  |  |  |   |
+|  | <sub>31장</sub> | 여행 경로 정하기 | [TPATH](https://algospot.com/judge/problem/read/TPATH) |  |  |  |  |  |   |
 |  | <sub>32장</sub> | 마일리지로 여행하기 | 준비중입니다 |  |  |  |  |  |   |
 |  | <sub>32장</sub> | 도난당한 조각상 | 준비중입니다 |  |  |  |  |  |   |
-|  | <sub>32장</sub> | 승부 조작 | MATCHFIX |  |  |  |  |  |   |
+|  | <sub>32장</sub> | 승부 조작 | [MATCHFIX](https://algospot.com/judge/problem/read/MATCHFIX) |  |  |  |  |  |   |
 |  | <sub>32장</sub> | 국책 사업 | 준비중입니다 |  |  |  |  |  |   |
-|  | <sub>32장</sub> | 함정 설치 | TRAPCARD |  |  |  |  |  |   |
+|  | <sub>32장</sub> | 함정 설치 | [TRAPCARD](https://algospot.com/judge/problem/read/TRAPCARD) |  |  |  |  |  |   |
