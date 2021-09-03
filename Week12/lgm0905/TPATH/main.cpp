@@ -10,8 +10,6 @@ void init() {
     edges = vector<pair<int ,pii> >(E);
 }
 
-// checks path between 0 to V-1
-// return val : 3bit : X(0 exists)X(V-1 exists)X(path exists)
 bool hasPath() {
     int visited[MAX_V]; memset(visited, 0, sizeof(visited)); 
     visited[0] = 1;
