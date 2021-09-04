@@ -1,12 +1,11 @@
 from itertools import zip_longest, combinations
 from math import sqrt
-from typing import Tuple
 import heapq
 
 def str_to_int_list(input_str: str) -> list:
     return list(map(int,input_str.strip().split(" ")))
 
-def cal_dist_sq(x: Tuple[int, int], y: Tuple[int, int]) -> int:
+def cal_dist_sq(x: tuple, y: tuple) -> int:
     return ((x[0]-y[0])**2 + (x[1]-y[1])**2)
 
 def cal_dist_g(b_set1: set, b_set2: set, b_list: list) -> float:
