@@ -1,1 +1,1 @@
-cat $1/input.txt | python3 $1/main.py
+cat $1/input.txt | python $1/main.py
