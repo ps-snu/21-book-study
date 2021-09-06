@@ -100,10 +100,10 @@
 | 11 | <sub>30장</sub> | 시간여행 | [TIMETRIP](https://algospot.com/judge/problem/read/TIMETRIP) | &#10004; | &#10004; | &#10004; |  |  | &#10004; |
 | 11 | <sub>30장</sub> | 음주 운전 단속 | [DRUNKEN](https://algospot.com/judge/problem/read/DRUNKEN) | &#10004; | &#10004; | &#10004; |  |  | &#10004; |
 | 11 | <sub>30장</sub> | 선거 공약 | [PROMISES](https://algospot.com/judge/problem/read/PROMISES) | &#10004; | &#10004; | &#10004; |  |  | &#10004; |
-|  | <sub>31장</sub> | 근거리 네트워크 | LAN |  |  |  |  |  |   |
+|  | <sub>31장</sub> | 근거리 네트워크 | LAN |  |  |  |  |  |  &#10004; |
 |  | <sub>31장</sub> | 여행 경로 정하기 | TPATH |  |  |  |  |  |   |
 |  | <sub>32장</sub> | 마일리지로 여행하기 | 준비중입니다 |  |  |  |  |  |   |
 |  | <sub>32장</sub> | 도난당한 조각상 | 준비중입니다 |  |  |  |  |  |   |
-|  | <sub>32장</sub> | 승부 조작 | MATCHFIX |  |  |  |  |  |   |
+|  | <sub>32장</sub> | 승부 조작 | MATCHFIX |  |  |  |  |  |  &#10004; |
 |  | <sub>32장</sub> | 국책 사업 | 준비중입니다 |  |  |  |  |  |   |
 |  | <sub>32장</sub> | 함정 설치 | TRAPCARD |  |  |  |  |  |   |
