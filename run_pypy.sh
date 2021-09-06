@@ -1,0 +1,1 @@
+cat $1/input.txt | pypy $1/main2.py
