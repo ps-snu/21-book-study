@@ -1,0 +1,15 @@
+3
+3
+abbab
+babab
+ababb
+bbaba
+2
+RMDCMRCD
+MRCDRMDC
+DCMRCDRM
+3
+aaa
+aaa
+aaa
+aaa

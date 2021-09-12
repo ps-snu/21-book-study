@@ -72,10 +72,10 @@
 | 6 | <sub>18장</sub> | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 6 | <sub>19장</sub> | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; |
 | 6 | <sub>19장</sub> | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 13 | <sub>20장</sub> | 작명하기 | [NAMING](https://algospot.com/judge/problem/read/NAMING) |  |  |  |  |  |   |
-| 13 | <sub>20장</sub> | 팰린드롬 만들기 | [PALINDROMIZE](https://algospot.com/judge/problem/read/PALINDROMIZE) |  |  |  |  |  |   |
-| 13 | <sub>20장</sub> | 재하의 금고 | [JAEHASAFE](https://algospot.com/judge/problem/read/JAEHASAFE) |  |  |  |  |  |   |
-| 13 | <sub>20장</sub> | 말버릇 | [HABIT](https://algospot.com/judge/problem/read/HABIT) |  |  |  |  |  |   |
+| 13 | <sub>20장</sub> | 작명하기 | [NAMING](https://algospot.com/judge/problem/read/NAMING) | &#10004; |  |  |  |  |   |
+| 13 | <sub>20장</sub> | 팰린드롬 만들기 | [PALINDROMIZE](https://algospot.com/judge/problem/read/PALINDROMIZE) | &#10004; |  |  |  |  |   |
+| 13 | <sub>20장</sub> | 재하의 금고 | [JAEHASAFE](https://algospot.com/judge/problem/read/JAEHASAFE) | &#10004; |  |  |  |  |   |
+| 13 | <sub>20장</sub> | 말버릇 | [HABIT](https://algospot.com/judge/problem/read/HABIT) | &#10004; |  |  |  |  |   |
 | 7 | <sub>21장</sub> | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) | &#10004;  | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 7 | <sub>21장</sub> | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
 | 7 | <sub>22장</sub> | 너드인가, 너드가 아닌가? 2 | [NERD2](https://algospot.com/judge/problem/read/NERD2) | &#10004; | &#10004; | &#10004; |  | &#10004; |  |
