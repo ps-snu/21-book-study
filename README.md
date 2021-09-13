@@ -72,9 +72,9 @@
 | 6 | <sub>18장</sub> | 조세푸스 문제 | [JOSEPHUS](https://algospot.com/judge/problem/read/JOSEPHUS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 6 | <sub>19장</sub> | 짝이 맞지 않는 괄호 | [BRACKETS2](https://algospot.com/judge/problem/read/BRACKETS2) | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; | &#10004; |
 | 6 | <sub>19장</sub> | 외계 신호 분석 | [ITES](https://algospot.com/judge/problem/read/ITES) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
-| 13 | <sub>20장</sub> | 작명하기 | [NAMING](https://algospot.com/judge/problem/read/NAMING) | &#10004; |  |  |  |  |   |
-| 13 | <sub>20장</sub> | 팰린드롬 만들기 | [PALINDROMIZE](https://algospot.com/judge/problem/read/PALINDROMIZE) | &#10004; |  |  |  |  |   |
-| 13 | <sub>20장</sub> | 재하의 금고 | [JAEHASAFE](https://algospot.com/judge/problem/read/JAEHASAFE) | &#10004; |  |  |  |  |   |
+| 13 | <sub>20장</sub> | 작명하기 | [NAMING](https://algospot.com/judge/problem/read/NAMING) | &#10004; |  | &#10004; |  |  |   |
+| 13 | <sub>20장</sub> | 팰린드롬 만들기 | [PALINDROMIZE](https://algospot.com/judge/problem/read/PALINDROMIZE) | &#10004; |  | &#10004; |  |  |   |
+| 13 | <sub>20장</sub> | 재하의 금고 | [JAEHASAFE](https://algospot.com/judge/problem/read/JAEHASAFE) | &#10004; |  | &#10004; |  |  |   |
 | 13 | <sub>20장</sub> | 말버릇 | [HABIT](https://algospot.com/judge/problem/read/HABIT) | &#10004; |  |  |  |  |   |
 | 7 | <sub>21장</sub> | 트리 순회 순서 변경 | [TRAVERSAL](https://algospot.com/judge/problem/read/TRAVERSAL) | &#10004;  | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 7 | <sub>21장</sub> | 요새 | [FORTRESS](https://algospot.com/judge/problem/read/FORTRESS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004;  |
@@ -97,9 +97,9 @@
 | 10 | <sub>30장</sub> | 신호 라우팅 | [ROUTING](https://algospot.com/judge/problem/read/ROUTING) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 10 | <sub>30장</sub> | 소방차 | [FIRETRUCKS](https://algospot.com/judge/problem/read/FIRETRUCKS) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
 | 10 | <sub>30장</sub> | 철인 N종 경기 | [NTHLON](https://algospot.com/judge/problem/read/NTHLON) | &#10004; | &#10004; | &#10004; |  | &#10004; | &#10004; |
-| 11 | <sub>30장</sub> | 시간여행 | [TIMETRIP](https://algospot.com/judge/problem/read/TIMETRIP) | &#10004; | &#10004; |  |  |  | &#10004; |
-| 11 | <sub>30장</sub> | 음주 운전 단속 | [DRUNKEN](https://algospot.com/judge/problem/read/DRUNKEN) | &#10004; | &#10004; |  |  |  | &#10004; |
-| 11 | <sub>30장</sub> | 선거 공약 | [PROMISES](https://algospot.com/judge/problem/read/PROMISES) | &#10004; | &#10004; |  |  |  | &#10004; |
+| 11 | <sub>30장</sub> | 시간여행 | [TIMETRIP](https://algospot.com/judge/problem/read/TIMETRIP) | &#10004; | &#10004; | &#10004; |  |  | &#10004; |
+| 11 | <sub>30장</sub> | 음주 운전 단속 | [DRUNKEN](https://algospot.com/judge/problem/read/DRUNKEN) | &#10004; | &#10004; | &#10004; |  |  | &#10004; |
+| 11 | <sub>30장</sub> | 선거 공약 | [PROMISES](https://algospot.com/judge/problem/read/PROMISES) | &#10004; | &#10004; | &#10004; |  |  | &#10004; |
 | 12 | <sub>31장</sub> | 근거리 네트워크 | [LAN](https://algospot.com/judge/problem/read/LAN) | &#10004; | &#10004; |  | &#x23F3; |  |  &#10004; |
 | 12 | <sub>31장</sub> | 여행 경로 정하기 | [TPATH](https://algospot.com/judge/problem/read/TPATH) | &#10004; | &#10004; |  |  |  |  |
 |  | <sub>32장</sub> | 마일리지로 여행하기 | 준비중입니다 |  |  |  |  |  |  |
