@@ -1,57 +1,59 @@
-#include <iostream>
-#include <vector>
-#include <string>
+#include <bits/stdc++.h>
 using namespace std;
 
-bool find(int r, int c, string& word, int idx);
-
-string board[5];
 const int dr[8] = {-1, -1, -1, 0, 0, 1, 1, 1};
 const int dc[8] = {-1, 0, 1, -1, 1, -1, 0, 1};
+int cache[5][5][10];
+string board[5];
+string word;
+int C, N;
 
-int main() {
-    int C, N;
-    cin >> C;
-
-
-    for (int i = 0; i < C; i++) {
-        for (int j = 0; j < 5; j++) {
-            cin >> board[j];
-        }
-
-        cin >> N;
-        for (int j = 0; j < N; j++) {
-            string word;
-            bool result = false;
-            cin >> word;
-
-            for (int r = 0; r < 5; r++) {
-                for (int c = 0; c < 5; c++) {
-                    result = find(r, c, word, 0);
-                    if (result) break;
-                }
-                if (result) break;
-            }
-
-            cout << word << " ";
-            if (result)
-                cout << "YES" << endl;
-            else
-                cout << "NO" << endl;
-        }
-    }
-}
-
-bool find(int r, int c, string& word, int idx) {
+bool find(int r, int c, int idx) {
     if (r < 0 || c < 0 || r == 5 || c == 5) return false;
-    if (board[r][c] != word[idx]) return false;
-    if (word.length() == idx + 1) return true;
+
+    int& ca = cache[r][c][idx];
+    if (ca != -1) return ca;
+    if (board[r][c] != word[idx]) return ca = 0;
+    if (idx + 1 == word.size()) return ca = 1;
 
     for (int i = 0; i < 8; i++) {
         int new_r = r + dr[i];
         int new_c = c + dc[i];
-        bool found = find(new_r, new_c, word, idx + 1);
-        if (found) return true;
+        if (find(new_r, new_c, idx + 1) == 1) {
+            return ca = 1;
+        };
     }
-    return false;
+
+    return ca = 0;
+}
+
+int main() {
+    cin >> C;
+    for (int tc = 0; tc < C; tc++) {
+        for (int i = 0; i < 5; i++) {
+            cin >> board[i];
+        }
+
+        cin >> N;
+        for (int i = 0; i < N; i++) {
+            cin >> word;
+            memset(cache, -1, sizeof(cache));
+
+            bool found = false;
+            for (int r = 0; r < 5; r++) {
+                for (int c = 0; c < 5; c++) {
+                    if (find(r, c, 0) == 1) {
+                        found = true;
+                        break;
+                    }
+                }
+            }
+
+            if (found) {
+                cout << word << " YES" << endl;
+            } else {
+                cout << word << " NO" << endl;
+            }
+        }
+    }
 }
